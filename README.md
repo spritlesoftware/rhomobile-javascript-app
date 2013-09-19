@@ -1,4 +1,4 @@
-rhomobile-javascript-app
-========================
+RMS 4.0 app using JavaScript.
 
-Rhomobile javascript app
+
+By Spritle Software team
