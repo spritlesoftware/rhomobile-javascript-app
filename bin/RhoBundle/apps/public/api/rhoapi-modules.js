@@ -215,7 +215,7 @@ var Rho = Rho || (function ($) {
         }
 
         var cmdText = JSON.stringify(cmd, wrapFunctions);
-        console.log(cmdText);
+        //console.log(cmdText);
 
         var result = null;
         var deferred = new $.Deferred(function (dfr) {
@@ -597,7 +597,7 @@ var Rho = Rho || (function ($) {
                 var result = null;
                 var err = null;
                 if (resultObj) {
-                    result = resultObj['result'];
+                    result = jsValue(resultObj['result']);
                     err = resultObj['error'];
                 }
                 opts.callback(result, err);
@@ -625,7 +625,26 @@ var Rho = Rho || (function ($) {
         });
     }
 
+    // === Old API support ===========================================================
 
+    function importOldApiTo(namespace) {
+        // move non-conflicting modules from old js api to this one
+        if ('undefined' != typeof window.RhoOld) {
+            if ('object' == typeof window.RhoOld) {
+                for (var prop in window.RhoOld) {
+                    if (window.RhoOld.hasOwnProperty(prop)
+                        && 'undefined' != typeof window.RhoOld[prop]
+                        && 'undefined' == typeof namespace[prop]) {
+
+                        namespace[prop] = window.RhoOld[prop];
+                    }
+                }
+            }
+            //delete window.RhoOld;
+            window.RhoOld = undefined;
+        }
+        return namespace;
+    }
 
     // === Utility internal methods ==================================================
 
@@ -665,12 +684,12 @@ var Rho = Rho || (function ($) {
 
     // === Public interface ==========================================================
 
-    return {
-        jQuery: $,
-        util: util,
-        platform: platform,
-        callbackHandler: callbackHandler
-    };
+    return importOldApiTo({
+            jQuery: $,
+            util: util,
+            platform: platform,
+            callbackHandler: callbackHandler
+    });
 
 })(jQuery.noConflict(true));
 // Module Rho.ORM
@@ -10981,7 +11000,7 @@ var Rho = Rho || (function ($) {
 (function ($, rho, rhoPlatform, rhoUtil) {
     'use strict';
 
-    if (window[rhoUtil.flag.USE_AJAX_BRIDGE]) return;
+    if (window[rhoUtil.flag.NATIVE_BRIDGE_TYPE] && window[rhoUtil.flag.NATIVE_BRIDGE_TYPE] == rhoPlatform.id.AJAX) return;
 
     var RHO_API_CALL_TAG = '__rhoNativeApiCall';
     var RHO_API_TAG = '__rhoNativeApi';

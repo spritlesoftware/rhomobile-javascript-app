@@ -1,0 +1,1966 @@
+--------- beginning of /dev/log/system
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.RSSI_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.STATE_CHANGE
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.STATE_CHANGE
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.conn.CONNECTIVITY_CHANGE
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.STATE_CHANGE
+E/ConnectivityService( 1754): not failing over to mobile type 0 because Mobile Data Disabled
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.conn.CONNECTIVITY_CHANGE
+E/ConnectivityService( 1754): not failing over to mobile type 0 because Mobile Data Disabled
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.STATE_CHANGE
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.conn.CONNECTIVITY_CHANGE
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.STATE_CHANGE
+E/ConnectivityService( 1754): not failing over to mobile type 0 because Mobile Data Disabled
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.conn.CONNECTIVITY_CHANGE
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.STATE_CHANGE
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.wifi.STATE_CHANGE
+W/StatusBarPolicy( 1835): Hardbg: action: android.net.conn.CONNECTIVITY_CHANGE
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.USER_PRESENT
+W/StatusBarPolicy( 1835): Hardbg: Not L21 Battery,may can used for WAN model !! 
+W/InputManagerService( 1754): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@408dfdf0
+I/ActivityManager( 1754): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 1754
+I/ActivityManager( 1754): No longer want com.android.packageinstaller (pid 24376): hidden #16
+I/UsageStats( 1754): Deleting usage file : usage-20130912
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/ActivityManager( 1754): No content provider found for: 
+D/VoldCmdListener( 1629): asec list
+D/VoldCmdListener( 1629): asec create smdl2tmp1 38 fat {} 10032
+I/Vold    ( 1629): Filesystem formatted OK
+D/VoldCmdListener( 1629): asec path smdl2tmp1
+D/VoldCmdListener( 1629): asec finalize smdl2tmp1
+D/VoldCmdListener( 1629): asec unmount smdl2tmp1 force
+W/ActivityManager( 1754): No content provider found for: 
+D/VoldCmdListener( 1629): asec mount smdl2tmp1 {} 1000
+D/VoldCmdListener( 1629): asec path smdl2tmp1
+D/VoldCmdListener( 1629): asec unmount smdl2tmp1 force
+D/VoldCmdListener( 1629): asec rename smdl2tmp1 com.rhomobile.test_app-2
+W/PackageManager( 1754): Mounting container com.rhomobile.test_app-2
+D/VoldCmdListener( 1629): asec mount com.rhomobile.test_app-2 {} 1000
+D/VoldCmdListener( 1629): asec path com.rhomobile.test_app-2
+I/ActivityManager( 1754): Force stopping package com.rhomobile.test_app uid=10045
+W/ActivityManager( 1754): Scheduling restart of crashed service com.rhomobile.test_app/com.rhomobile.rhodes.RhodesService in 5000ms
+I/ActivityManager( 1754):   Force finishing activity HistoryRecord{4052edd0 com.rhomobile.test_app/com.rhomobile.rhodes.RhodesActivity}
+I/ActivityManager( 1754):   Force stopping service ServiceRecord{4054be30 com.rhomobile.test_app/com.rhomobile.rhodes.RhodesService}
+I/WindowManager( 1754): WIN DEATH: Window{40889210 com.rhomobile.test_app/com.rhomobile.rhodes.RhodesActivity paused=true}
+I/PackageManager( 1754): Package com.rhomobile.test_app codePath changed from /mnt/asec/com.rhomobile.test_app-1/pkg.apk to /mnt/asec/com.rhomobile.test_app-2/pkg.apk; Retaining data and using new
+I/PackageManager( 1754): Linking native library dir for /mnt/asec/com.rhomobile.test_app-2/pkg.apk
+I/ActivityManager( 1754): Force stopping package com.rhomobile.test_app uid=10045
+W/PackageManager( 1754): Code path for pkg : com.rhomobile.test_app changing from /mnt/asec/com.rhomobile.test_app-1/pkg.apk to /mnt/asec/com.rhomobile.test_app-2/pkg.apk
+W/PackageManager( 1754): Resource path for pkg : com.rhomobile.test_app changing from /mnt/asec/com.rhomobile.test_app-1/pkg.apk to /mnt/asec/com.rhomobile.test_app-2/pkg.apk
+W/PackageManager( 1754): Unknown permission android.webkit.permission.PLUGIN in package com.rhomobile.test_app
+W/PackageManager( 1754): Unknown permission android.permission.ACCESS_GPS in package com.rhomobile.test_app
+W/PackageManager( 1754): Unknown permission android.permission.ACCESS_LOCATION in package com.rhomobile.test_app
+W/PackageManager( 1754): Not granting permission android.permission.MODIFY_PHONE_STATE to package com.rhomobile.test_app (protectionLevel=3 flags=0xcbe44)
+I/ActivityManager( 1754): Force stopping package com.rhomobile.test_app uid=10045
+W/RecognitionManagerService( 1754): no available voice recognition services found
+D/VoldCmdListener( 1629): asec unmount com.rhomobile.test_app-1 force
+D/VoldCmdListener( 1629): asec destroy com.rhomobile.test_app-1 force
+I/ActivityManager( 1754): Starting: Intent { act=android.intent.action.MAIN flg=0x10000000 cmp=com.rhomobile.test_app/com.rhomobile.rhodes.RhodesActivity } from pid 11424
+I/UsageStats( 1754): No package stats for pkg:com.android.launcher
+I/ActivityManager( 1754): Start proc com.rhomobile.test_app for activity com.rhomobile.test_app/com.rhomobile.rhodes.RhodesActivity: pid=11432 uid=10045 gids={3003, 1015, 1006, 3002, 3001}
+W/ActivityManager( 1754): No content provider found for: 
+W/InputManagerService( 1754): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@4068c090
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+I/ActivityManager( 1754): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 1754
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+--------- beginning of /dev/log/main
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -52 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -52
+D/wpa_supplicant( 1967): buf SSAT2 rssi -52
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -48 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -48
+D/wpa_supplicant( 1967): buf SSAT2 rssi -48
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** No Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -49 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -49
+D/wpa_supplicant( 1967): buf SSAT2 rssi -49
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -49 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -49
+D/wpa_supplicant( 1967): buf SSAT2 rssi -49
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** No Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -48 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -48
+D/wpa_supplicant( 1967): buf SSAT2 rssi -48
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -48 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -48
+D/wpa_supplicant( 1967): buf SSAT2 rssi -48
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -50 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -50
+D/wpa_supplicant( 1967): buf SSAT2 rssi -50
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -48 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -48
+D/wpa_supplicant( 1967): buf SSAT2 rssi -48
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -48 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -48
+D/wpa_supplicant( 1967): buf SSAT2 rssi -48
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -48 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -48
+D/wpa_supplicant( 1967): buf SSAT2 rssi -48
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -43 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -43
+D/wpa_supplicant( 1967): buf SSAT2 rssi -43
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -48 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -48
+D/wpa_supplicant( 1967): buf SSAT2 rssi -48
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -48 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -48
+D/wpa_supplicant( 1967): buf SSAT2 rssi -48
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** No Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -43 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -43
+D/wpa_supplicant( 1967): buf SSAT2 rssi -43
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -42 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -42
+D/wpa_supplicant( 1967): buf SSAT2 rssi -42
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -42 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -42
+D/wpa_supplicant( 1967): buf SSAT2 rssi -42
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -43 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -43
+D/wpa_supplicant( 1967): buf SSAT2 rssi -43
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -44 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -44
+D/wpa_supplicant( 1967): buf SSAT2 rssi -44
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -44 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -44
+D/wpa_supplicant( 1967): buf SSAT2 rssi -44
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -43 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -43
+D/wpa_supplicant( 1967): buf SSAT2 rssi -43
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -44 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -44
+D/wpa_supplicant( 1967): buf SSAT2 rssi -44
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -42 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -42
+D/wpa_supplicant( 1967): buf SSAT2 rssi -42
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -44 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -44
+D/wpa_supplicant( 1967): buf SSAT2 rssi -44
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -44 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -44
+D/wpa_supplicant( 1967): buf SSAT2 rssi -44
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+W/StatusBarPolicy( 1835): Hardbg: action: android.intent.action.BATTERY_CHANGED
+W/StatusBarPolicy( 1835): Hardbg: g_BatCap: 5620
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** No Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** No Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -44 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -44
+D/wpa_supplicant( 1967): buf SSAT2 rssi -44
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** No Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -44 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -44
+D/wpa_supplicant( 1967): buf SSAT2 rssi -44
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -44 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -44
+D/wpa_supplicant( 1967): buf SSAT2 rssi -44
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -44 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -44
+D/wpa_supplicant( 1967): buf SSAT2 rssi -44
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -46 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -46
+D/wpa_supplicant( 1967): buf SSAT2 rssi -46
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** Motion ****
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/AndroidRuntime(11728): 
+D/AndroidRuntime(11728): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime(11728): CheckJNI is OFF
+D/dalvikvm(11728): creating instr width table
+D/AndroidRuntime(11728): Calling main entry com.android.commands.pm.Pm
+D/dalvikvm(  960): GC_EXPLICIT freed 7K, 49% free 2859K/5511K, external 1625K/2137K, paused 23ms
+W/ActivityManager( 1754): No content provider found for: 
+D/VoldCmdListener( 1629): asec list
+I/PackageHelper(  960): Size of container 10 MB 9047176 bytes
+D/VoldCmdListener( 1629): asec create smdl2tmp1 10 fat {} 10032
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -45 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -45
+D/wpa_supplicant( 1967): buf SSAT2 rssi -45
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I//system/bin/newfs_msdos( 1629): /system/bin/newfs_msdos: warning, /dev/block/dm-5 is not a character device
+I//system/bin/newfs_msdos( 1629): /system/bin/newfs_msdos: Skipping mount checks
+I//system/bin/newfs_msdos( 1629): Bogus heads from kernel - setting sane value
+I//system/bin/newfs_msdos( 1629): Bogus sectors from kernel - setting sane value
+I//system/bin/newfs_msdos( 1629): /dev/block/dm-5: 20776 sectors in 2597 FAT32 clusters (4096 bytes/cluster)
+I//system/bin/newfs_msdos( 1629): bps=512 spc=8 res=32 nft=2 sec=20853 mid=0xf0 spt=63 hds=64 hid=0 bspf=21 rdcl=2 infs=1 bkbs=2
+I/PackageHelper(  960): Created secure container smdl2tmp1 at /mnt/asec/smdl2tmp1
+I/DefContainer(  960): Created container for smdl2tmp1 at path : /mnt/asec/smdl2tmp1
+I/Vold    ( 1629): Filesystem formatted OK
+D/VoldCmdListener( 1629): asec path smdl2tmp1
+I/DefContainer(  960): Copied /data/local/tmp/sample_js_app_beta59-debug.apk to /mnt/asec/smdl2tmp1/pkg.apk
+I/DefContainer(  960): Finalized container smdl2tmp1
+I/DefContainer(  960): Unmounting smdl2tmp1 at path /mnt/asec/smdl2tmp1
+D/VoldCmdListener( 1629): asec finalize smdl2tmp1
+D/dalvikvm(  960): GC_EXPLICIT freed 160K, 50% free 2788K/5511K, external 1625K/2137K, paused 24ms
+D/dalvikvm( 1754): GC_EXPLICIT freed 742K, 53% free 5268K/11207K, external 4025K/5027K, paused 61ms
+D/VoldCmdListener( 1629): asec unmount smdl2tmp1 force
+W/ActivityManager( 1754): No content provider found for: 
+D/VoldCmdListener( 1629): asec mount smdl2tmp1 {} 1000
+D/PackageParser( 1754): Scanning package: /mnt/asec/smdl2tmp1/pkg.apk
+D/VoldCmdListener( 1629): asec path smdl2tmp1
+D/dalvikvm( 1754): GC_CONCURRENT freed 1336K, 51% free 5582K/11207K, external 4025K/5027K, paused 3ms+4ms
+I/Sensors ( 1754): **** No Motion ****
+D/dalvikvm( 1754): GC_EXPLICIT freed 1223K, 51% free 5570K/11207K, external 4025K/5027K, paused 50ms
+D/VoldCmdListener( 1629): asec unmount smdl2tmp1 force
+D/VoldCmdListener( 1629): asec rename smdl2tmp1 com.rhomobile.sample_js_app_beta59-1
+W/PackageManager( 1754): Mounting container com.rhomobile.sample_js_app_beta59-1
+D/VoldCmdListener( 1629): asec mount com.rhomobile.sample_js_app_beta59-1 {} 1000
+I/PackageManager( 1754): Succesfully renamed smdl2tmp1 to com.rhomobile.sample_js_app_beta59-1 at new path: /mnt/asec/com.rhomobile.sample_js_app_beta59-1
+D/PackageManager( 1754): Scanning package com.rhomobile.sample_js_app_beta59
+D/installd( 1637): DexInv: --- BEGIN '/mnt/asec/com.rhomobile.sample_js_app_beta59-1/pkg.apk' ---
+D/VoldCmdListener( 1629): asec path com.rhomobile.sample_js_app_beta59-1
+I/PackageManager( 1754): Linking native library dir for /mnt/asec/com.rhomobile.sample_js_app_beta59-1/pkg.apk
+D/dalvikvm(11786): creating instr width table
+D/dalvikvm(11786): DexOpt: load 18ms, verify+opt 198ms
+D/installd( 1637): DexInv: --- END '/mnt/asec/com.rhomobile.sample_js_app_beta59-1/pkg.apk' (success) ---
+I/ActivityManager( 1754): Force stopping package com.rhomobile.sample_js_app_beta59 uid=10046
+D/PackageManager( 1754): Registered content provider: com.rhomobile.sample_js_app_beta59, className = com.rhomobile.rhodes.LocalFileProvider, isSyncable = false
+D/PackageManager( 1754):   Providers: com.rhomobile.rhodes.LocalFileProvider
+D/PackageManager( 1754):   Services: com.rhomobile.rhodes.RhodesService
+D/PackageManager( 1754):   Activities: com.rhomobile.rhodes.RhodesActivity com.rhomobile.rhodes.alert.PopupActivity com.rhomobile.rhodes.ui.FileList com.rhomobile.rhodes.camera.ImageCapture com.rhomobile.rhodes.signature.ImageCapture com.rhomobile.rhodes.datetime.DateTimePickerScreen com.rhomobile.rhodes.mapview.MapView com.rhomobile.rhodes.bluetooth.RhoBluetoothDeviceListActivity com.motorolasolutions.rho.notification.PopupActivity
+I/installd( 1637): move /data/dalvik-cache/mnt@asec@com.rhomobile.sample_js_app_beta59-1@pkg.apk@classes.dex -> /data/dalvik-cache/mnt@asec@com.rhomobile.sample_js_app_beta59-1@pkg.apk@classes.dex
+D/PackageManager( 1754): New package installed in /mnt/asec/com.rhomobile.sample_js_app_beta59-1/pkg.apk
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+W/ResourceType( 1754): Failure getting entry for 0x7f060000 (t=5 e=0) in package 0 (error -75)
+W/RecognitionManagerService( 1754): no available voice recognition services found
+D/dalvikvm( 1754): GC_EXPLICIT freed 671K, 53% free 5280K/11207K, external 4025K/5027K, paused 51ms
+D/AndroidRuntime(11728): Shutting down VM
+I/AndroidRuntime(11728): NOTE: attach of thread 'Binder Thread #3' failed
+D/dalvikvm(11728): GC_CONCURRENT freed 100K, 71% free 297K/1024K, external 0K/0K, paused 0ms+1ms
+D/jdwp    (11728): adbd disconnected
+D/AndroidRuntime(11791): 
+D/AndroidRuntime(11791): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime(11791): CheckJNI is OFF
+D/dalvikvm(11791): creating instr width table
+D/AndroidRuntime(11791): Calling main entry com.android.commands.am.Am
+I/ActivityManager( 1754): Starting: Intent { act=android.intent.action.MAIN flg=0x10000000 cmp=com.rhomobile.sample_js_app_beta59/com.rhomobile.rhodes.RhodesActivity } from pid 11791
+D/ActivityTracker( 1857): New activity, p= com.rhomobile.sample_js_app_beta59 a=com.rhomobile.rhodes.RhodesActivity
+D/ActivityTracker( 1857): Corresponding profile id: 1
+D/AndroidRuntime(11791): Shutting down VM
+I/AndroidRuntime(11791): NOTE: attach of thread 'Binder Thread #3' failed
+D/dalvikvm(11791): GC_CONCURRENT freed 101K, 69% free 322K/1024K, external 0K/0K, paused 1ms+0ms
+D/jdwp    (11791): adbd disconnected
+I/ActivityManager( 1754): Start proc com.rhomobile.sample_js_app_beta59 for activity com.rhomobile.sample_js_app_beta59/com.rhomobile.rhodes.RhodesActivity: pid=11801 uid=10046 gids={3003}
+D/dalvikvm(11801): Trying to load lib /mnt/asec/com.rhomobile.sample_js_app_beta59-1/lib/librhodes.so 0x405153c0
+D/dalvikvm(11801): Added shared lib /mnt/asec/com.rhomobile.sample_js_app_beta59-1/lib/librhodes.so 0x405153c0
+I/ActivityThread(11801): Pub com.rhomobile.sample_js_app_beta59: com.rhomobile.rhodes.LocalFileProvider
+I/RhodesApplication(11801): Initializing...
+D/RhoFileApi(11801): App root path: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/
+D/RhoFileApi(11801): Sqlite journals path: /data/data/com.rhomobile.sample_js_app_beta59/sqlite_stmt_journals/
+D/RhoFileApi(11801): Shared path: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/
+D/RhodesApplication(11801): Root path: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/
+I/RhodesApplication(11801): Application hash was changed
+D/RhoFileApi(11801): Copy hash to FS
+D/RhoFileApi(11801): File hash copied
+D/RhoFileApi(11801): Copy rho.dat to FS
+D/RhoFileApi(11801): File rho.dat copied
+D/RhoFileApi(11801): Copy apps/rhoconfig.txt to FS
+D/RhoFileApi(11801): File apps/rhoconfig.txt copied
+I/RhoFileApi(11801): Opening stat table from FS: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/rho.dat
+D/RhoFileApi(11801): Copy apps/rhoconfig.txt to FS
+D/RhoFileApi(11801): File apps/rhoconfig.txt copied
+D/RhoFileApi(11801): App root path: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/
+D/RhoFileApi(11801): Sqlite journals path: /data/data/com.rhomobile.sample_js_app_beta59/sqlite_stmt_journals/
+D/RhoFileApi(11801): Shared path: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/
+I/APP     (11801): I 09/20/2013 12:28:17:233 00002e19    RhodesApplication| Initialized
+I/APP     (11801): I 09/20/2013 12:28:17:252 00002e19         SplashScreen| Looking for start page source
+I/APP     (11801): I 09/20/2013 12:28:17:256 00002e19         SplashScreen| Loading image: apps/app/loading.png
+D/dalvikvm(11801): GC_EXTERNAL_ALLOC freed 248K, 49% free 2831K/5511K, external 1625K/2137K, paused 42ms
+I/APP     (11801): I 09/20/2013 12:28:17:352 00002e19         SplashScreen| Done
+I/APP     (11801): I 09/20/2013 12:28:17:353 00002e19       RhodesActivity| Config path: /mnt/sdcard/Android/data/com.rhomobile.sample_js_app_beta59/Config.xml
+I/APP     (11801): I 09/20/2013 12:28:17:354 00002e19       RhodesActivity| Loading Config.xml from resources
+I/APP     (11801): W 09/20/2013 12:28:17:354 00002e19       RhodesActivity| Error loading RhoElements configuraiton (IllegalArgumentException): Cannot get com.rhomobile.sample_js_app_beta59.R$raw.config
+I/APP     (11801): I 09/20/2013 12:28:18:041 00002e19        GoogleWebView| Initialize Google WEbView staff
+I/APP     (11801): I 09/20/2013 12:28:18:060 00002e19    RhodesApplication| New UiState: MainActivityCreated
+I/APP     (11801): I 09/20/2013 12:28:18:061 00002e19    RhodesApplication| New UiState: MainActivityStarted
+I/APP     (11801): I 09/20/2013 12:28:18:071 00002e19    LocalFileProvider| Revoke URI permissions: content:///com.rhomobile.sample_js_app_beta59
+I/APP     (11801): I 09/20/2013 12:28:18:073 00002e19               Rhodes| Loading...
+I/APP     (11801): I 09/20/2013 12:28:18:074 00002e19            RhodesApp| Trying to get free listening port.
+W/ActivityManager( 1754): No content provider found for: 
+I/APP     (11801): I 09/20/2013 12:28:18:075 00002e19            RhodesApp| Trying to bind of 0 port...
+I/APP     (11801): I 09/20/2013 12:28:18:075 00002e19            RhodesApp| Got port to bind on: 49735
+I/APP     (11801): I 09/20/2013 12:28:18:076 00002e19            RhodesApp| Free listening port: 49735
+I/APP     (11801): I 09/20/2013 12:28:18:090 00002e23         AppCallbacks| Starting main routine...
+I/APP     (11801): I 09/20/2013 12:28:18:091 00002e23         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I/APP     (11801): I 09/20/2013 12:28:18:109 00002e19            RhodesApp| callAppActiveCallback
+I/APP     (11801): I 09/20/2013 12:28:18:110 00002e19         AppCallbacks| addCommand: APP-ACTIVATED
+I/APP     (11801): I 09/20/2013 12:28:18:110 00002e23         AppCallbacks| Received command APP-ACTIVATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I/APP     (11801): I 09/20/2013 12:28:18:111 00002e23         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I/APP     (11801): I 09/20/2013 12:28:18:111 00002e24            RhodesApp| Starting RhodesApp main routine...
+I/APP     (11801): I 09/20/2013 12:28:18:110 00002e19         AppActivated| Cannot commit now, application will be activated when started.
+I/APP     (11801): I 09/20/2013 12:28:18:129 00002e19    RhodesApplication| New AppState: Undefined
+I/APP     (11801): I 09/20/2013 12:28:18:133 00002e19        RhodesService| handleCommand: startId=1, source=com.rhomobile.rhodes.BaseActivity
+I/APP     (11801): I 09/20/2013 12:28:18:140 00002e19         AppCallbacks| addCommand: UI-CREATED
+I/APP     (11801): I 09/20/2013 12:28:18:141 00002e23         AppCallbacks| Received command UI-CREATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
+I/APP     (11801): I 09/20/2013 12:28:18:141 00002e23         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I/APP     (11801): I 09/20/2013 12:28:18:152 00002e19  WebSettingsProvider| Set web plugins state 'OFF'
+I/APP     (11801): I 09/20/2013 12:28:18:154 00002e19        GoogleWebView| Setting RhoWebChromeClient and RhoWebViewClient
+V/SimpleMainView.View(11801): ms[1379705298217]  Main Window :: onSizeChanged() old [ 1024 x 524 ]  new [ 0 x 0 ]
+I/APP     (11801): I 09/20/2013 12:28:18:219 00002e19 ConnectionChangeReceiver| LOGGER: Network status change, connected = true
+I/APP     (11801): E 09/20/2013 12:28:18:220 00002e19         RhodesAppJNI| nativeNotify
+I/APP     (11801): E 09/20/2013 12:28:18:220 00002e19            RhodesApp| enter notifyReceiver
+I/APP     (11801): E 09/20/2013 12:28:18:220 00002e19            RhodesApp| calling onNetworkStatusChanged
+I/APP     (11801): I 09/20/2013 12:28:18:220 00002e19       RhodesActivity| New start parameters: 
+I/APP     (11801): I 09/20/2013 12:28:18:220 00002e19            RhodesApp| New start params: 
+V/InputMethodService( 1843): CALL: onStartInput
+I/ActivityManager( 1754): Displayed com.rhomobile.sample_js_app_beta59/com.rhomobile.rhodes.RhodesActivity: +1s420ms
+I/APP     (11801): I 09/20/2013 12:28:18:327 00002e24              RhoRuby| Init_RhoBlobs: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/db/db-files
+I/APP     (11801): I 09/20/2013 12:28:18:345 00002e24              RhoRuby| require_compiled: RhoSystemApi
+I/APP     (11801): I 09/20/2013 12:28:18:348 00002e24              RhoRuby| require_compiled: RhoApplicationApi
+I/APP     (11801): I 09/20/2013 12:28:18:373 00002e24              RhoRuby| require_compiled: RhoNetworkApi
+I/APP     (11801): I 09/20/2013 12:28:18:377 00002e24              RhoRuby| require_compiled: RhoDatabaseApi
+I/APP     (11801): I 09/20/2013 12:28:18:397 00002e24              RhoRuby| require_compiled: RhoLogApi
+I/APP     (11801): I 09/20/2013 12:28:18:406 00002e24              RhoRuby| require_compiled: RhoWebViewApi
+I/APP     (11801): I 09/20/2013 12:28:18:415 00002e24              RhoRuby| require_compiled: RhoNativeToolbarApi
+I/APP     (11801): I 09/20/2013 12:28:18:449 00002e24              RhoRuby| require_compiled: RhoNativeTabbarApi
+I/APP     (11801): I 09/20/2013 12:28:18:453 00002e24              RhoRuby| require_compiled: RhoNotificationApi
+I/APP     (11801): I 09/20/2013 12:28:18:483 00002e24              RhoRuby| require_compiled: RhoConnectClient
+I/APP     (11801): I 09/20/2013 12:28:18:489 00002e24 RhoconnectClientManager| setRhoconnectClientImpl ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+I/APP     (11801): I 09/20/2013 12:28:18:490 00002e24              RhoRuby| require_compiled: rhoframework
+I/APP     (11801): I 09/20/2013 12:28:18:494 00002e24              RhoRuby| require_compiled: rational
+I/APP     (11801): I 09/20/2013 12:28:18:496 00002e24              RhoRuby| require_compiled: rhom/rhom_object
+I/APP     (11801): I 09/20/2013 12:28:18:501 00002e24              RhoRuby| require_compiled: json
+I/APP     (11801): I 09/20/2013 12:28:18:502 00002e24              RhoRuby| require_compiled: json/common
+I/APP     (11801): I 09/20/2013 12:28:18:510 00002e24              RhoRuby| require_compiled: json/version
+I/APP     (11801): I 09/20/2013 12:28:18:594 00002e24              RhoRuby| require_compiled: json/pure
+I/APP     (11801): I 09/20/2013 12:28:18:597 00002e24              RhoRuby| require_compiled: json/pure/generator
+I/APP     (11801): I 09/20/2013 12:28:18:611 00002e24              RhoRuby| require_compiled: rhom/rhom_object_factory
+D/szipinf (11801): Initializing inflate state
+D/szipinf (11801): Initializing zlib to inflate
+I/APP     (11801): I 09/20/2013 12:28:18:662 00002e24              RhoRuby| require_compiled: rhom/rhom
+I/APP     (11801): I 09/20/2013 12:28:18:671 00002e24              RhoRuby| require_compiled: rhom/rhom_model
+I/APP     (11801): I 09/20/2013 12:28:18:676 00002e24              RhoRuby| require_compiled: rhom
+I/APP     (11801): I 09/20/2013 12:28:18:678 00002e24              RhoRuby| require_compiled: rho/rhoapplication
+I/APP     (11801): I 09/20/2013 12:28:18:689 00002e24              RhoRuby| require_compiled: rholang/localization_simplified
+I/APP     (11801): I 09/20/2013 12:28:18:696 00002e24              RhoRuby| require_compiled: rho/rhomsg
+I/APP     (11801): I 09/20/2013 12:28:18:697 00002e24              RhoRuby| require_compiled: rho/rhotabbar
+I/APP     (11801): I 09/20/2013 12:28:18:699 00002e24              RhoRuby| require_compiled: rho/rhotoolbar
+I/APP     (11801): I 09/20/2013 12:28:18:703 00002e24                  APP| Current locale: ; Country code: 
+I/APP     (11801): I 09/20/2013 12:28:18:713 00002e24                  APP| Locilized file: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/lib/rholang/lang_
+I/APP     (11801): I 09/20/2013 12:28:18:713 00002e24              RhoRuby| require_compiled: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/lib/rholang/lang_en
+I/APP     (11801): I 09/20/2013 12:28:18:716 00002e24                  APP| Locilized file: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/apps/app/lang/lang_
+I/APP     (11801): I 09/20/2013 12:28:18:716 00002e24                  APP| Locilized file: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/lib/rholang/rhoerror_
+I/APP     (11801): I 09/20/2013 12:28:18:717 00002e24              RhoRuby| require_compiled: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/lib/rholang/rhoerror_en
+I/APP     (11801): I 09/20/2013 12:28:18:720 00002e24                  APP| Locilized file: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/lib/rholang/rhomsg_
+I/APP     (11801): I 09/20/2013 12:28:18:720 00002e24              RhoRuby| require_compiled: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/lib/rholang/rhomsg_en
+I/APP     (11801): I 09/20/2013 12:28:18:722 00002e24              RhoRuby| require_compiled: indifferent_access
+I/APP     (11801): I 09/20/2013 12:28:18:732 00002e24              RhoRuby| require_compiled: rho/rhosupport
+I/APP     (11801): I 09/20/2013 12:28:18:740 00002e24              RhoRuby| require_compiled: rho/rhocontroller
+I/APP     (11801): I 09/20/2013 12:28:18:744 00002e24              RhoRuby| require_compiled: rho/render
+I/APP     (11801): I 09/20/2013 12:28:18:754 00002e24              RhoRuby| require_compiled: rho/rho
+D/szipinf (11801): Initializing inflate state
+D/szipinf (11801): Initializing zlib to inflate
+I/APP     (11801): I 09/20/2013 12:28:18:790 00002e24              RhoRuby| require_compiled: rho/rhoerror
+I/APP     (11801): I 09/20/2013 12:28:18:793 00002e24              RhoRuby| require_compiled: rhom/rhom_source
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/APP     (11801): I 09/20/2013 12:28:19:952 00002e24              RhoRuby| require_compiled: rhodes
+I/APP     (11801): I 09/20/2013 12:28:19:955 00002e24                  APP| Looking for RhoConnectClient
+I/APP     (11801): I 09/20/2013 12:28:19:955 00002e24                  APP| RhoConnectClient found. do nothing
+I/APP     (11801): I 09/20/2013 12:28:19:956 00002e24              RhoRuby| require_compiled: rho/rhoviewhelpers
+I/APP     (11801): I 09/20/2013 12:28:19:961 00002e24              RhoRuby| require_compiled: rho
+I/APP     (11801): I 09/20/2013 12:28:19:962 00002e24                  APP| RHO loaded
+I/APP     (11801): I 09/20/2013 12:28:19:962 00002e24                  APP| Calling RHO.initialize
+I/APP     (11801): I 09/20/2013 12:28:19:963 00002e24                   DB| Open DB: /data/data/com.rhomobile.sample_js_app_beta59/rhodata/db/syncdbuser.sqlite
+I/APP     (11801): I 09/20/2013 12:28:22:147 00002e24          GeoLocation| Creating singleton instance.
+I/APP     (11801): I 09/20/2013 12:28:22:147 00002e24            RhodesApp| Starting sync engine...
+I/APP     (11801): I 09/20/2013 12:28:22:148 00002e24                 Sync| sync_poll_interval: 0
+I/APP     (11801): I 09/20/2013 12:28:22:148 00002e24                 Sync| syncserver: 
+I/APP     (11801): I 09/20/2013 12:28:22:148 00002e24                 Sync| bulksync_state: 0
+I/APP     (11801): I 09/20/2013 12:28:22:148 00002e24            RhodesApp| RhoRubyInitApp...
+I/APP     (11801): I 09/20/2013 12:28:22:148 00002e24                  APP| init_app
+I/APP     (11801): I 09/20/2013 12:28:22:148 00002e2a                 Sync| Starting main routine...
+I/APP     (11801): I 09/20/2013 12:28:22:148 00002e24              RhoRuby| require_compiled: application
+I/APP     (11801): I 09/20/2013 12:28:22:149 00002e2a                 Sync| ThreadQueue blocked for 4294967295 seconds...
+I/APP     (11801): I 09/20/2013 12:28:22:150 00002e24                 Sync| Set notification. Source ID: -1;Url :; Params: 
+I/APP     (11801): I 09/20/2013 12:28:22:150 00002e24           HttpServer| Start HTTP server
+I/APP     (11801): I 09/20/2013 12:28:22:150 00002e24           HttpServer| Listen for connections on port 49735
+I/APP     (11801): I 09/20/2013 12:28:22:150 00002e24         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
+I/APP     (11801): I 09/20/2013 12:28:22:150 00002e23         AppCallbacks| process command: LOCAL-SERVER-STARTED
+I/APP     (11801): I 09/20/2013 12:28:22:151 00002e23 RhodesAppActiveObserver| Ready
+I/APP     (11801): I 09/20/2013 12:28:22:152 00002e23    RhodesApplication| New AppState: AppActivated
+I/APP     (11801): I 09/20/2013 12:28:22:152 00002e23         AppCallbacks| process command: UI-CREATED
+I/APP     (11801): I 09/20/2013 12:28:22:160 00002e19  WebSettingsProvider| Set web plugins state 'ON'
+I/APP     (11801): I 09/20/2013 12:28:22:162 00002e19  WebSettingsProvider| Set web plugins state 'ON'
+I/APP     (11801): I 09/20/2013 12:28:22:164 00002e24           HttpServer| Process URI: '/system/uicreated'
+I/APP     (11801): I 09/20/2013 12:28:22:165 00002e24                  APP| on_ui_created.navigate to start url: '/app'
+I/APP     (11801): I 09/20/2013 12:28:22:166 00002e19       SimpleMainView| Cleared URL: http://localhost:49735/app
+I/APP     (11801): I 09/20/2013 12:28:22:167 00002e23         AppCallbacks| process command: APP-ACTIVATED
+I/APP     (11801): I 09/20/2013 12:28:22:168 00002e24           HttpServer| Process URI: '/system/activateapp'
+I/APP     (11801): I 09/20/2013 12:28:22:168 00002e24                  APP| AppEvent Activated
+I/APP     (11801): I 09/20/2013 12:28:22:169 00002e23         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I/APP     (11801): I 09/20/2013 12:28:22:196 00002e24           HttpServer| Process URI: '/app'
+I/APP     (11801): I 09/20/2013 12:28:22:245 00002e19     RhoWebViewClient| Loading URL: http://localhost:49735/app/index_erb.iseq
+I/APP     (11801): I 09/20/2013 12:28:22:250 00002e24           HttpServer| Process URI: '/app/index_erb.iseq'
+I/APP     (11801): I 09/20/2013 12:28:22:255 00002e24                  APP| RHO serve_index: /app/index_erb.iseq
+I/APP     (11801): I 09/20/2013 12:28:22:256 00002e24 RHO Rho::RhoController| inst_render_index
+I/APP     (11801): I 09/20/2013 12:28:22:257 00002e24 RHO Rho::RhoController| index layout
+I/APP     (11801): I 09/20/2013 12:28:22:284 00002e24           HttpServer| GC Start.
+I/APP     (11801): I 09/20/2013 12:28:22:354 00002e24           HttpServer| GC End.
+I/APP     (11801): I 09/20/2013 12:28:22:355 00002e24           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+D/szipinf (11801): Initializing inflate state
+D/szipinf (11801): Initializing zlib to inflate
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -48 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -48
+D/wpa_supplicant( 1967): buf SSAT2 rssi -48
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+D/dalvikvm(11801): GC_CONCURRENT freed 1047K, 52% free 3260K/6727K, external 3222K/3528K, paused 2ms+3ms
+D/webviewglue(11801): nativeDestroy view: 0x455be8
+I/APP     (11801): I 09/20/2013 12:28:22:514 00002e24           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+D/szipinf (11801): Initializing inflate state
+D/szipinf (11801): Initializing zlib to inflate
+I/APP     (11801): I 09/20/2013 12:28:22:557 00002e24           HttpServer| Process URI: '/public/js/application.js'
+I/APP     (11801): I 09/20/2013 12:28:22:567 00002e24           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+D/szipinf (11801): Initializing inflate state
+D/szipinf (11801): Initializing zlib to inflate
+I/APP     (11801): I 09/20/2013 12:28:22:593 00002e24           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I/APP     (11801): I 09/20/2013 12:28:22:602 00002e24           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+D/szipinf (11801): Initializing inflate state
+D/szipinf (11801): Initializing zlib to inflate
+I/APP     (11801): I 09/20/2013 12:28:22:634 00002e24           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I/APP     (11801): I 09/20/2013 12:28:22:638 00002e24           HttpServer| Process URI: '/public/css/android.css'
+D/dalvikvm(  960): GC_EXPLICIT freed 2K, 50% free 2786K/5511K, external 1625K/2137K, paused 25ms
+D/wpa_supplicant( 1967): CMD: DRIVER RSSI
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd RSSI
+D/wpa_supplicant( 1967): rssi command
+D/wpa_supplicant( 1967): wpa_driver_tista_private_send ioctl_cmd = 810a24  res = 0
+D/wpa_supplicant( 1967): wpa_driver_tista_get_rssi data -45 beacon -47 success
+D/wpa_supplicant( 1967): rssi_data -45 rssi_beacon -47
+D/wpa_supplicant( 1967): buf SSAT2 rssi -47
+D/wpa_supplicant( 1967): CMD: DRIVER LINKSPEED
+D/wpa_supplicant( 1967): wpa_driver_tista_driver_cmd LINKSPEED
+D/wpa_supplicant( 1967): Link Speed command
+D/wpa_supplicant( 1967): buf LinkSpeed 65
+I/Sensors ( 1754): **** Motion ****

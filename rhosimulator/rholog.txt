@@ -1,468 +1,498 @@
-I 09/18/2013 16:31:46:621 0000345c              RhoRuby| require_compiled: uri/ftp
-I 09/18/2013 16:31:46:782 0000345c              RhoRuby| require_compiled: uri/http
-I 09/18/2013 16:31:46:925 0000345c              RhoRuby| require_compiled: uri/https
-I 09/18/2013 16:31:47:091 0000345c              RhoRuby| require_compiled: uri/ldap
-I 09/18/2013 16:31:47:216 0000345c              RhoRuby| require_compiled: uri/ldaps
-I 09/18/2013 16:31:47:346 0000345c              RhoRuby| require_compiled: uri/mailto
-I 09/18/2013 16:31:47:473 0000345c              RhoRuby| require_compiled: timeout
-I 09/18/2013 16:31:48:598 0000345c                  APP| [Debugger] Unable to open connection to debugger: #<Errno::ECONNREFUSED: No connection could be made because the target machine actively refused it. - connect(2)>
-I 09/18/2013 16:31:48:867 0000345c                  APP| RHO loaded
-I 09/18/2013 16:31:49:078 0000345c                  APP| Calling RHO.initialize
-I 09/18/2013 16:31:49:367 0000345c              RhoRuby| require_compiled: rhoappmanifest
-I 09/18/2013 16:31:49:681 0000345c              RhoRuby| require_compiled: find
-I 09/18/2013 16:31:49:828 0000345c                   DB| Open DB: D:/Projects/rhomobile_projects/sample_js_app_beta59/rhosimulator/db/syncdbuser.sqlite
-I 09/18/2013 16:31:49:980 0000345c          GeoLocation| Creating singleton instance.
-I 09/18/2013 16:31:50:089 0000345c            RhodesApp| Starting sync engine...
-I 09/18/2013 16:31:50:157 0000345c                 Sync| sync_poll_interval: 0
-I 09/18/2013 16:31:50:278 0000345c                 Sync| syncserver: 
-I 09/18/2013 16:31:50:423 0000345c                 Sync| bulksync_state: 0
-I 09/18/2013 16:31:50:534 0000345c            RhodesApp| RhoRubyInitApp...
-I 09/18/2013 16:31:50:534 00002098                 Sync| Starting main routine...
-I 09/18/2013 16:31:50:690 0000345c                  APP| init_app
-I 09/18/2013 16:31:50:801 00002098                 Sync| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:31:50:867 0000345c              RhoRuby| require_compiled: application
-I 09/18/2013 16:31:51:012 0000345c                 Sync| Set notification. Source ID: -1;Url :; Params: 
-I 09/18/2013 16:31:51:079 0000345c           HttpServer| Start HTTP server
-I 09/18/2013 16:31:51:146 0000345c           HttpServer| Listen for connections on port 64156
-I 09/18/2013 16:31:51:212 0000345c         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
-I 09/18/2013 16:31:51:301 00000da4         AppCallbacks| process command: LOCAL-SERVER-STARTED
-I 09/18/2013 16:31:51:367 00000da4  SystemImpl.cpp: 171| rho_sys_report_app_started() has no implementation on Win Mobile.
-I 09/18/2013 16:31:51:524 00000da4         AppCallbacks| process command: UI-CREATED
-I 09/18/2013 16:31:51:656 00000da4                  Net| Method: GET;Url: http://127.0.0.1:64156/system/uicreated
-I 09/18/2013 16:31:51:799 0000345c           HttpServer| Process URI: '/system/uicreated'
-I 09/18/2013 16:31:51:946 0000345c                  APP| on_ui_created.navigate to start url: '/app'
-I 09/18/2013 16:31:52:046 00000a7c           MainWindow| navigate: 'http://127.0.0.1:64156/app'
-I 09/18/2013 16:31:52:046 00000da4         AppCallbacks| process command: APP-ACTIVATED
-I 09/18/2013 16:31:52:178 00000a7c         QtMainWindow| WebView: loading...
-I 09/18/2013 16:31:52:413 00000da4                  Net| Method: GET;Url: http://127.0.0.1:64156/system/activateapp
-I 09/18/2013 16:31:52:545 0000345c           HttpServer| Process URI: '/app'
-I 09/18/2013 16:31:52:915 0000345c           HttpServer| Process URI: '/system/activateapp'
-I 09/18/2013 16:31:53:399 0000345c                  APP| AppEvent Activated
-I 09/18/2013 16:31:53:645 00000da4         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:31:53:645 0000345c           HttpServer| Process URI: '/app/index.erb'
-I 09/18/2013 16:31:53:913 0000345c                  APP| RHO serve_index: /app/index.erb
-I 09/18/2013 16:31:54:135 0000345c RHO Rho::RhoController| inst_render_index
-I 09/18/2013 16:31:54:246 0000345c              RhoRuby| require_compiled: erb
-I 09/18/2013 16:31:54:404 0000345c                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/sample_js_app_beta59/app/index.erb
-I 09/18/2013 16:31:54:524 0000345c RHO Rho::RhoController| index layout
-I 09/18/2013 16:31:54:591 0000345c                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/sample_js_app_beta59/app/layout.erb
-I 09/18/2013 16:31:54:659 00000a7c           MainWindow| addToolbarButton: Label: '';Action: 'back'
-I 09/18/2013 16:31:54:659 0000345c           HttpServer| GC Start.
-I 09/18/2013 16:31:54:724 00000a7c           MainWindow| addToolbarButton: Label: '';Action: 'separator'
-I 09/18/2013 16:31:54:792 0000345c           HttpServer| GC End.
-I 09/18/2013 16:31:54:857 00000a7c           MainWindow| addToolbarButton: Label: '';Action: 'home'
-I 09/18/2013 16:31:55:013 00000a7c           MainWindow| addToolbarButton: Label: '';Action: 'refresh'
-I 09/18/2013 16:31:55:079 00000a7c           MainWindow| addToolbarButton: Label: '';Action: 'options'
-I 09/18/2013 16:31:55:149 00000a7c         QtMainWindow| WebView: URL changed to http://127.0.0.1:64156/app/index.erb
-I 09/18/2013 16:31:55:287 0000345c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
-I 09/18/2013 16:31:55:449 0000345c           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
-I 09/18/2013 16:31:55:524 0000345c           HttpServer| Process URI: '/public/js/application.js'
-I 09/18/2013 16:31:55:592 0000345c           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
-I 09/18/2013 16:31:55:668 0000345c           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 09/18/2013 16:31:55:802 0000345c           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
-I 09/18/2013 16:31:55:868 0000345c           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 09/18/2013 16:31:55:980 0000345c           HttpServer| Process URI: '/public/css/android.css'
-I 09/18/2013 16:31:56:491 0000345c           HttpServer| Process URI: '/favicon.ico'
-E 09/18/2013 16:31:56:668 0000345c           HttpServer| The file /favicon.ico was not found
-I 09/18/2013 16:31:56:736 00000a7c         QtMainWindow| Page load complete.
-I 09/18/2013 16:33:40:118 00000a7c            RhodesApp| callAppActiveCallback
-I 09/18/2013 16:33:40:265 00000a7c         AppCallbacks| addCommand: APP-DEACTIVATED
-I 09/18/2013 16:33:40:444 00000da4         AppCallbacks| process command: APP-DEACTIVATED
-I 09/18/2013 16:33:40:444 00000a7c                  Net| Method: GET;Url: http://127.0.0.1:64156/system/deactivateapp
-I 09/18/2013 16:33:40:610 00000da4         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:33:40:755 0000345c           HttpServer| Process URI: '/system/deactivateapp'
-I 09/18/2013 16:33:41:032 0000345c                  APP| AppEvent Deactivated
-1:51721/app/index.erb:125
-I 09/13/2013 17:07:54:535 00000ee8           JavaScript| TypeError: Result of expression 'product.destroy' [undefined] is not a function.
-I 09/13/2013 17:08:04:041 00000ee8           MainWindow| refresh
-I 09/13/2013 17:08:04:114 00000ee8         QtMainWindow| WebView: loading...
-I 09/13/2013 17:08:04:192 00000e5c           HttpServer| Process URI: '/app/index.erb'
-I 09/13/2013 17:08:04:260 00000e5c                  APP| RHO serve_index: /app/index.erb
-I 09/13/2013 17:08:04:324 00000e5c RHO Rho::RhoController| inst_render_index
-I 09/13/2013 17:08:04:392 00000e5c                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/sample_js_app_beta59/app/index.erb
-I 09/13/2013 17:08:04:458 00000e5c RHO Rho::RhoController| index layout
-I 09/13/2013 17:08:04:525 00000e5c                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/sample_js_app_beta59/app/layout.erb
-I 09/13/2013 17:08:04:596 00000e5c           HttpServer| GC Start.
-I 09/13/2013 17:08:04:597 00000ee8         QtMainWindow| WebView: URL changed to http://127.0.0.1:51721/app/index.erb
-I 09/13/2013 17:08:04:662 00000e5c           HttpServer| GC End.
-I 09/13/2013 17:08:04:810 00000e5c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
-I 09/13/2013 17:08:04:884 00000e5c           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
-I 09/13/2013 17:08:04:949 00000e5c           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
-I 09/13/2013 17:08:05:015 00000e5c           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 09/13/2013 17:08:05:082 00000e5c           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
-I 09/13/2013 17:08:05:148 00000e5c           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 09/13/2013 17:08:05:215 00000e5c           HttpServer| Process URI: '/public/css/android.css'
-I 09/13/2013 17:08:05:334 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:05:403 00000ee8           JavaScript| {"method":"databaseFilePath","params":["user"],"__rhoClass":"Rho.Application","__rhoID":"0","jsonrpc":"2.0","id":0}
-I 09/13/2013 17:08:05:479 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:05:548 00000ee8           JavaScript| {"method":"open","params":["D:/Projects/rhomobile_projects/sample_js_app_beta59/rhosimulator/db/syncdbuser.sqlite","user"],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":1}
-I 09/13/2013 17:08:05:617 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:05:681 00000ee8           JavaScript| {"method":"execute","params":["select * from sources where name = 'Product'",false,null],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":2}
-I 09/13/2013 17:08:05:750 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:05:814 00000ee8           JavaScript| {"method":"databaseFilePath","params":["user"],"__rhoClass":"Rho.Application","__rhoID":"0","jsonrpc":"2.0","id":3}
-I 09/13/2013 17:08:05:881 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:05:993 00000ee8           JavaScript| {"method":"execute","params":["select sync_priority,source_id,partition, sync_type, schema_version, associations, blob_attribs, name from sources where name ='Product'",false,null],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":4}
-I 09/13/2013 17:08:06:064 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:06:126 00000ee8           JavaScript| {"method":"execute","params":["update \"sources\" set \"name\"=?, \"sync_priority\"=?, \"associations\"=?, \"blob_attribs\"=? where \"source_id\"=?",false,["Product",1000,null,null,"1"]],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":5}
-I 09/13/2013 17:08:06:312 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:06:414 00000ee8           JavaScript| {"method":"databaseFilePath","params":["user"],"__rhoClass":"Rho.Application","__rhoID":"0","jsonrpc":"2.0","id":6}
-I 09/13/2013 17:08:06:483 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:06:547 00000ee8           JavaScript| {"method":"execute","params":["SELECT object, attrib, value FROM object_values WHERE source_id=? order by object",false,[1]],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":7}
-I 09/13/2013 17:08:06:661 00000e5c           HttpServer| Process URI: '/favicon.ico'
-E 09/13/2013 17:08:06:726 00000e5c           HttpServer| The file /favicon.ico was not found
-I 09/13/2013 17:08:06:796 00000ee8         QtMainWindow| Page load complete.
-I 09/13/2013 17:08:12:879 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:119
-I 09/13/2013 17:08:12:949 00000ee8           JavaScript| 148316137765001.1
-I 09/13/2013 17:08:13:019 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:13:082 00000ee8           JavaScript| {"method":"databaseFilePath","params":["user"],"__rhoClass":"Rho.Application","__rhoID":"0","jsonrpc":"2.0","id":8}
-I 09/13/2013 17:08:13:149 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:13:215 00000ee8           JavaScript| {"method":"execute","params":["SELECT attrib,value FROM object_values WHERE object=? AND source_id=?",false,["119148242594021000.9",1]],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":9}
-I 09/13/2013 17:08:13:283 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:123
-I 09/13/2013 17:08:13:349 00000ee8           JavaScript| ------------------
-I 09/13/2013 17:08:13:415 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:124
-I 09/13/2013 17:08:13:482 00000ee8           JavaScript| 
-I 09/13/2013 17:08:13:548 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:125
-I 09/13/2013 17:08:13:615 00000ee8           JavaScript| TypeError: Result of expression 'product.destroy' [undefined] is not a function.
-I 09/13/2013 17:08:30:712 00000ee8           MainWindow| refresh
-I 09/13/2013 17:08:30:772 00000ee8         QtMainWindow| WebView: loading...
-I 09/13/2013 17:08:30:849 00000e5c           HttpServer| Process URI: '/app/index.erb'
-I 09/13/2013 17:08:31:779 00000e5c                  APP| RHO serve_index: /app/index.erb
-I 09/13/2013 17:08:34:095 00000e5c RHO Rho::RhoController| inst_render_index
-I 09/13/2013 17:08:34:173 00000e5c                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/sample_js_app_beta59/app/index.erb
-I 09/13/2013 17:08:34:239 00000e5c RHO Rho::RhoController| index layout
-I 09/13/2013 17:08:34:306 00000e5c                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/sample_js_app_beta59/app/layout.erb
-I 09/13/2013 17:08:34:376 00000e5c           HttpServer| GC Start.
-I 09/13/2013 17:08:34:378 00000ee8         QtMainWindow| WebView: URL changed to http://127.0.0.1:51721/app/index.erb
-I 09/13/2013 17:08:34:442 00000e5c           HttpServer| GC End.
-I 09/13/2013 17:08:34:590 00000e5c           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
-I 09/13/2013 17:08:34:675 00000e5c           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
-I 09/13/2013 17:08:34:740 00000e5c           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
-I 09/13/2013 17:08:34:806 00000e5c           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 09/13/2013 17:08:34:873 00000e5c           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
-I 09/13/2013 17:08:34:940 00000e5c           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 09/13/2013 17:08:35:007 00000e5c           HttpServer| Process URI: '/public/css/android.css'
-I 09/13/2013 17:08:35:127 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:35:373 00000ee8           JavaScript| {"method":"databaseFilePath","params":["user"],"__rhoClass":"Rho.Application","__rhoID":"0","jsonrpc":"2.0","id":0}
-I 09/13/2013 17:08:35:448 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:35:517 00000ee8           JavaScript| {"method":"open","params":["D:/Projects/rhomobile_projects/sample_js_app_beta59/rhosimulator/db/syncdbuser.sqlite","user"],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":1}
-I 09/13/2013 17:08:35:586 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:35:650 00000ee8           JavaScript| {"method":"execute","params":["select * from sources where name = 'Product'",false,null],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":2}
-I 09/13/2013 17:08:35:809 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:35:894 00000ee8           JavaScript| {"method":"databaseFilePath","params":["user"],"__rhoClass":"Rho.Application","__rhoID":"0","jsonrpc":"2.0","id":3}
-I 09/13/2013 17:08:35:962 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:36:027 00000ee8           JavaScript| {"method":"execute","params":["select sync_priority,source_id,partition, sync_type, schema_version, associations, blob_attribs, name from sources where name ='Product'",false,null],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":4}
-I 09/13/2013 17:08:36:100 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:36:171 00000ee8           JavaScript| {"method":"execute","params":["update \"sources\" set \"name\"=?, \"sync_priority\"=?, \"associations\"=?, \"blob_attribs\"=? where \"source_id\"=?",false,["Product",1000,null,null,"1"]],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":5}
-I 09/13/2013 17:08:36:357 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:36:451 00000ee8           JavaScript| {"method":"databaseFilePath","params":["user"],"__rhoClass":"Rho.Application","__rhoID":"0","jsonrpc":"2.0","id":6}
-I 09/13/2013 17:08:36:518 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:36:584 00000ee8           JavaScript| {"method":"execute","params":["SELECT object, attrib, value FROM object_values WHERE source_id=? order by object",false,[1]],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":7}
-I 09/13/2013 17:08:36:701 00000e5c           HttpServer| Process URI: '/favicon.ico'
-E 09/13/2013 17:08:36:929 00000e5c           HttpServer| The file /favicon.ico was not found
-I 09/13/2013 17:08:36:996 00000ee8         QtMainWindow| Page load complete.
-I 09/13/2013 17:08:38:351 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:119
-I 09/13/2013 17:08:38:428 00000ee8           JavaScript| 148316137765001.1
-I 09/13/2013 17:08:38:500 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:38:572 00000ee8           JavaScript| {"method":"databaseFilePath","params":["user"],"__rhoClass":"Rho.Application","__rhoID":"0","jsonrpc":"2.0","id":8}
-I 09/13/2013 17:08:38:641 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:08:38:705 00000ee8           JavaScript| {"method":"execute","params":["SELECT attrib,value FROM object_values WHERE object=? AND source_id=?",false,["119148316137765001.1",1]],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":9}
-I 09/13/2013 17:08:38:775 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:123
-I 09/13/2013 17:08:38:839 00000ee8           JavaScript| ------------------
-I 09/13/2013 17:08:38:906 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:124
-I 09/13/2013 17:08:38:972 00000ee8           JavaScript| 
-I 09/13/2013 17:08:39:041 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:125
-I 09/13/2013 17:08:39:106 00000ee8           JavaScript| TypeError: Result of expression 'product.destroy' [undefined] is not a function.
-I 09/13/2013 17:12:29:070 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:119
-I 09/13/2013 17:12:29:137 00000ee8           JavaScript| 148316137765001.1
-I 09/13/2013 17:12:29:205 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:12:29:326 00000ee8           JavaScript| {"method":"databaseFilePath","params":["user"],"__rhoClass":"Rho.Application","__rhoID":"0","jsonrpc":"2.0","id":10}
-I 09/13/2013 17:12:29:394 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/public/api/rhoapi-modules.js:218
-I 09/13/2013 17:12:29:459 00000ee8           JavaScript| {"method":"execute","params":["SELECT attrib,value FROM object_values WHERE object=? AND source_id=?",false,["119148316137765001.1",1]],"__rhoClass":"Rho.Database.SQLite3","__rhoID":"__rhoID#1","jsonrpc":"2.0","id":11}
-I 09/13/2013 17:12:29:528 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:123
-I 09/13/2013 17:12:29:592 00000ee8           JavaScript| ------------------
-I 09/13/2013 17:12:29:660 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:124
-I 09/13/2013 17:12:29:726 00000ee8           JavaScript| 
-I 09/13/2013 17:12:29:793 00000ee8           JavaScript| Console message at http://127.0.0.1:51721/app/index.erb:125
-I 09/13/2013 17:12:29:859 00000ee8           JavaScript| TypeError: Result of expression 'product.destroy' [undefined] is not a function.
-I 09/13/2013 17:38:09:732 00000ee8            RhodesApp| callAppActiveCallback
-I 09/13/2013 17:38:10:129 00000ee8         AppCallbacks| addCommand: APP-DEACTIVATED
-I 09/13/2013 17:38:10:812 00000ee8                  Net| Method: GET;Url: http://127.0.0.1:51721/system/deactivateapp
-I 09/13/2013 17:38:11:390 00001cf4         AppCallbacks| process command: APP-DEACTIVATED
-I 09/13/2013 17:38:11:795 00000e5c           HttpServer| Process URI: '/system/deactivateapp'
-I 09/13/2013 17:38:12:896 00001cf4         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/13/2013 17:38:14:152 00000e5c                  APP| AppEvent Deactivated
-I 09/13/2013 17:38:15:727 00000ee8                  Net| Method: GET;Url: http://127.0.0.1:51721/system/uidestroyed
-I 09/13/2013 17:38:16:583 00000e5c           HttpServer| Process URI: '/system/uidestroyed'
-I 09/13/2013 17:38:17:194 00000e5c                  APP| AppEvent UIDestroyed
-I 09/13/2013 17:38:18:041 00001cf4         AppCallbacks| Thread shutdown
-I 09/13/2013 17:38:18:892 00000ee8           HttpServer| Stopping server...
-I 09/13/2013 17:38:19:488 00000e5c            RhodesApp| RhodesApp thread shutdown
-I 09/13/2013 17:38:20:735 00000e5c          GeoLocation| Destroying singleton instance.
-I 09/13/2013 17:38:21:488 00000ee8            RhoThread| Terminate thread. ID: 3816; Result: 258
-I 09/18/2013 16:29:33:990 00002024            RhodesApp| New start params: -approot='D:/Projects/rhomobile_projects/sample_js_app_beta59' -rhodespath='D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0'
-I 09/18/2013 16:29:34:099 00002024      Rhodes.cpp: 493| Rhodes started
-I 09/18/2013 16:29:34:167 00002eb8         AppCallbacks| Starting main routine...
-I 09/18/2013 16:29:34:169 00002024            RhodesApp| Trying to get free listening port.
-I 09/18/2013 16:29:34:233 00002eb8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:29:34:301 00002024            RhodesApp| Trying to bind of 0 port...
-I 09/18/2013 16:29:34:434 00002024            RhodesApp| Got port to bind on: 64101
-I 09/18/2013 16:29:34:500 00002024            RhodesApp| Free listening port: 64101
-I 09/18/2013 16:29:34:708 00002024            RhodesApp| callAppActiveCallback
-I 09/18/2013 16:29:34:778 00002024         AppCallbacks| addCommand: APP-ACTIVATED
-I 09/18/2013 16:29:34:845 00002eb8         AppCallbacks| Received command APP-ACTIVATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
-I 09/18/2013 16:29:34:847 00002024         AppCallbacks| addCommand: UI-CREATED
-I 09/18/2013 16:29:34:922 00002eb8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:29:34:990 00002710            RhodesApp| Starting RhodesApp main routine...
-I 09/18/2013 16:29:35:089 00002eb8         AppCallbacks| Received command UI-CREATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
-I 09/18/2013 16:29:35:207 00002710              RhoRuby| Init_RhoBlobs: D:/Projects/rhomobile_projects/sample_js_app_beta59/rhosimulator/db/db-files
-I 09/18/2013 16:29:35:266 00002eb8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:29:35:336 00002710              RhoRuby| require_compiled: RhoSystemApi
-I 09/18/2013 16:29:35:513 00002710              RhoRuby| require_compiled: RhoApplicationApi
-I 09/18/2013 16:29:35:682 00002710              RhoRuby| require_compiled: RhoNetworkApi
-I 09/18/2013 16:29:35:815 00002710              RhoRuby| require_compiled: RhoDatabaseApi
-I 09/18/2013 16:29:35:893 00002710              RhoRuby| require_compiled: RhoLogApi
-I 09/18/2013 16:29:35:968 00002710              RhoRuby| require_compiled: RhoWebViewApi
-I 09/18/2013 16:29:36:112 00002710              RhoRuby| require_compiled: RhoNativeToolbarApi
-I 09/18/2013 16:29:36:202 00002710              RhoRuby| require_compiled: RhoNativeTabbarApi
-I 09/18/2013 16:29:36:279 00002710              RhoRuby| require_compiled: RhoNotificationApi
-I 09/18/2013 16:29:36:347 00002710              RhoRuby| require_compiled: RhoNativeMenubarApi
-I 09/18/2013 16:29:36:424 00002710              RhoRuby| require_compiled: RhoConnectClient
-I 09/18/2013 16:29:36:514 00002710 RhoconnectClientManager| setRhoconnectClientImpl ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I 09/18/2013 16:29:36:579 00002710              RhoRuby| require_compiled: digest
-I 09/18/2013 16:29:36:646 00002710              RhoRuby| require_compiled: digest.so
-I 09/18/2013 16:29:36:740 00002710              RhoRuby| require_compiled: rhoframework
-I 09/18/2013 16:29:36:814 00002710              RhoRuby| require_compiled: rational
-I 09/18/2013 16:29:36:889 00002710              RhoRuby| require_compiled: rhom/rhom_object
-I 09/18/2013 16:29:36:957 00002710              RhoRuby| require_compiled: json
-I 09/18/2013 16:29:37:034 00002710              RhoRuby| require_compiled: json/common
-I 09/18/2013 16:29:37:107 00002710              RhoRuby| require_compiled: json/version
-I 09/18/2013 16:29:37:179 00002710              RhoRuby| require_compiled: json/pure
-I 09/18/2013 16:29:37:258 00002710              RhoRuby| require_compiled: json/pure/generator
-I 09/18/2013 16:29:37:339 00002710              RhoRuby| require_compiled: rhom/rhom_object_factory
-I 09/18/2013 16:29:37:432 00002710              RhoRuby| require_compiled: rhom/rhom
-I 09/18/2013 16:29:37:504 00002710              RhoRuby| require_compiled: rhom/rhom_model
-I 09/18/2013 16:29:37:580 00002710              RhoRuby| require_compiled: rhom
-I 09/18/2013 16:29:37:656 00002710              RhoRuby| require_compiled: rho/rhoapplication
-I 09/18/2013 16:29:37:726 00002710              RhoRuby| require_compiled: rholang/localization_simplified
-I 09/18/2013 16:29:37:815 00002710              RhoRuby| require_compiled: rho/rhomsg
-I 09/18/2013 16:29:37:890 00002710              RhoRuby| require_compiled: rho/rhotabbar
-I 09/18/2013 16:29:37:957 00002710              RhoRuby| require_compiled: rho/rhotoolbar
-I 09/18/2013 16:29:38:024 00002710                  APP| Current locale: ; Country code: 
-I 09/18/2013 16:29:38:089 00002710                  APP| Locilized file: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/lang_
-I 09/18/2013 16:29:38:156 00002710              RhoRuby| require_compiled: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/lang_en
-I 09/18/2013 16:29:38:224 00002710                  APP| Locilized file: D:/Projects/rhomobile_projects/sample_js_app_beta59/app/lang/lang_
-I 09/18/2013 16:29:38:312 00002710                  APP| Locilized file: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/rhoerror_
-I 09/18/2013 16:29:38:378 00002710              RhoRuby| require_compiled: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/rhoerror_en
-I 09/18/2013 16:29:38:446 00002710                  APP| Locilized file: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/rhomsg_
-I 09/18/2013 16:29:38:523 00002710              RhoRuby| require_compiled: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/rhomsg_en
-I 09/18/2013 16:29:38:592 00002710              RhoRuby| require_compiled: indifferent_access
-I 09/18/2013 16:29:38:669 00002710              RhoRuby| require_compiled: rho/rhosupport
-I 09/18/2013 16:29:38:749 00002710              RhoRuby| require_compiled: rho/rhocontroller
-I 09/18/2013 16:29:38:826 00002710              RhoRuby| require_compiled: rho/render
-I 09/18/2013 16:29:38:911 00002710              RhoRuby| require_compiled: rho/rho
-I 09/18/2013 16:29:39:003 00002710              RhoRuby| require_compiled: rho/rhoerror
-I 09/18/2013 16:29:39:081 00002710              RhoRuby| require_compiled: rhom/rhom_source
-I 09/18/2013 16:29:39:160 00002710              RhoRuby| require_compiled: rhodes
-I 09/18/2013 16:29:39:236 00002710                  APP| Looking for RhoConnectClient
-I 09/18/2013 16:29:39:312 00002710                  APP| RhoConnectClient found. do nothing
-E 09/18/2013 16:29:39:391 00002710              RhoRuby| require_compiled: error: can not find rhodes_translator
-I 09/18/2013 16:29:39:468 00002710              RhoRuby| require_compiled: rho/rhoviewhelpers
-I 09/18/2013 16:29:39:539 00002710              RhoRuby| require_compiled: rho
-I 09/18/2013 16:29:39:613 00002710              RhoRuby| require_compiled: debugger
-I 09/18/2013 16:29:39:743 00002710              RhoRuby| require_compiled: uri
-I 09/18/2013 16:29:39:914 00002710              RhoRuby| require_compiled: uri/common
-I 09/18/2013 16:29:40:053 00002710              RhoRuby| require_compiled: uri/generic
-I 09/18/2013 16:29:40:141 00002710              RhoRuby| require_compiled: uri/ftp
-I 09/18/2013 16:29:40:223 00002710              RhoRuby| require_compiled: uri/http
-I 09/18/2013 16:29:40:291 00002710              RhoRuby| require_compiled: uri/https
-I 09/18/2013 16:29:40:369 00002710              RhoRuby| require_compiled: uri/ldap
-I 09/18/2013 16:29:40:437 00002710              RhoRuby| require_compiled: uri/ldaps
-I 09/18/2013 16:29:40:536 00002710              RhoRuby| require_compiled: uri/mailto
-I 09/18/2013 16:29:40:616 00002710              RhoRuby| require_compiled: timeout
-I 09/18/2013 16:29:41:696 00002710                  APP| [Debugger] Unable to open connection to debugger: #<Errno::ECONNREFUSED: No connection could be made because the target machine actively refused it. - connect(2)>
-I 09/18/2013 16:29:41:768 00002710                  APP| RHO loaded
-I 09/18/2013 16:29:41:834 00002710                  APP| Calling RHO.initialize
-I 09/18/2013 16:29:41:901 00002710              RhoRuby| require_compiled: rhoappmanifest
-I 09/18/2013 16:29:41:969 00002710              RhoRuby| require_compiled: find
-I 09/18/2013 16:29:42:056 00002710                   DB| Open DB: D:/Projects/rhomobile_projects/sample_js_app_beta59/rhosimulator/db/syncdbuser.sqlite
-I 09/18/2013 16:29:42:178 00002710          GeoLocation| Creating singleton instance.
-I 09/18/2013 16:29:42:245 00002710            RhodesApp| Starting sync engine...
-I 09/18/2013 16:29:42:311 00002710                 Sync| sync_poll_interval: 0
-I 09/18/2013 16:29:42:379 00002710                 Sync| syncserver: 
-I 09/18/2013 16:29:42:456 00002710                 Sync| bulksync_state: 0
-I 09/18/2013 16:29:42:523 00002710            RhodesApp| RhoRubyInitApp...
-I 09/18/2013 16:29:42:523 00000150                 Sync| Starting main routine...
-I 09/18/2013 16:29:42:589 00002710                  APP| init_app
-I 09/18/2013 16:29:42:657 00000150                 Sync| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:29:42:723 00002710              RhoRuby| require_compiled: application
-I 09/18/2013 16:29:42:916 00002710                 Sync| Set notification. Source ID: -1;Url :; Params: 
-I 09/18/2013 16:29:42:979 00002710           HttpServer| Start HTTP server
-I 09/18/2013 16:29:43:045 00002710           HttpServer| Listen for connections on port 64101
-I 09/18/2013 16:29:43:113 00002710         AppCallbacks| addCommand: LOCAL-SERVER-STARTED
-I 09/18/2013 16:29:43:179 00002eb8         AppCallbacks| process command: LOCAL-SERVER-STARTED
-I 09/18/2013 16:29:43:246 00002eb8  SystemImpl.cpp: 171| rho_sys_report_app_started() has no implementation on Win Mobile.
-I 09/18/2013 16:29:43:312 00002eb8         AppCallbacks| process command: UI-CREATED
-I 09/18/2013 16:29:43:379 00002eb8                  Net| Method: GET;Url: http://127.0.0.1:64101/system/uicreated
-I 09/18/2013 16:29:43:464 00002710           HttpServer| Process URI: '/system/uicreated'
-I 09/18/2013 16:29:43:535 00002710                  APP| on_ui_created.navigate to start url: '/app'
-I 09/18/2013 16:29:43:601 00002024           MainWindow| navigate: 'http://127.0.0.1:64101/app'
-I 09/18/2013 16:29:43:601 00002eb8         AppCallbacks| process command: APP-ACTIVATED
-I 09/18/2013 16:29:43:734 00002eb8                  Net| Method: GET;Url: http://127.0.0.1:64101/system/activateapp
-I 09/18/2013 16:29:43:668 00002024         QtMainWindow| WebView: loading...
-I 09/18/2013 16:29:43:802 00002710           HttpServer| Process URI: '/system/activateapp'
-I 09/18/2013 16:29:44:057 00002710                  APP| AppEvent Activated
-I 09/18/2013 16:29:44:202 00002eb8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:29:44:202 00002710           HttpServer| Process URI: '/app'
-I 09/18/2013 16:29:44:384 00002710           HttpServer| Process URI: '/app/index.erb'
-I 09/18/2013 16:29:44:448 00002710                  APP| RHO serve_index: /app/index.erb
-I 09/18/2013 16:29:44:535 00002710 RHO Rho::RhoController| inst_render_index
-I 09/18/2013 16:29:44:602 00002710              RhoRuby| require_compiled: erb
-I 09/18/2013 16:29:44:681 00002710                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/sample_js_app_beta59/app/index.erb
-I 09/18/2013 16:29:44:747 00002710 RHO Rho::RhoController| index layout
-I 09/18/2013 16:29:44:812 00002710                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/sample_js_app_beta59/app/layout.erb
-I 09/18/2013 16:29:44:980 00002710           HttpServer| GC Start.
-I 09/18/2013 16:29:45:023 00002024           MainWindow| addToolbarButton: Label: '';Action: 'back'
-I 09/18/2013 16:29:45:082 00002710           HttpServer| GC End.
-I 09/18/2013 16:29:45:146 00002024           MainWindow| addToolbarButton: Label: '';Action: 'separator'
-I 09/18/2013 16:29:45:356 00002024           MainWindow| addToolbarButton: Label: '';Action: 'home'
-I 09/18/2013 16:29:45:424 00002024           MainWindow| addToolbarButton: Label: '';Action: 'refresh'
-I 09/18/2013 16:29:45:613 00002024           MainWindow| addToolbarButton: Label: '';Action: 'options'
-I 09/18/2013 16:29:45:748 00002024         QtMainWindow| WebView: URL changed to http://127.0.0.1:64101/app/index.erb
-I 09/18/2013 16:29:45:920 00002710           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
-I 09/18/2013 16:29:46:049 00002710           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
-I 09/18/2013 16:29:46:175 00002710           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
-I 09/18/2013 16:29:46:271 00002710           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 09/18/2013 16:29:46:359 00002710           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
-I 09/18/2013 16:29:46:676 00002710           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 09/18/2013 16:29:46:875 00002710           HttpServer| Process URI: '/public/css/android.css'
-I 09/18/2013 16:29:47:314 00002710           HttpServer| Process URI: '/favicon.ico'
-E 09/18/2013 16:29:47:424 00002710           HttpServer| The file /favicon.ico was not found
-I 09/18/2013 16:29:47:491 00002024         QtMainWindow| Page load complete.
-I 09/18/2013 16:30:43:814 00002024           MainWindow| refresh
-I 09/18/2013 16:30:43:896 00002024         QtMainWindow| WebView: loading...
-I 09/18/2013 16:30:43:973 00002710           HttpServer| Process URI: '/app/index.erb'
-I 09/18/2013 16:30:44:042 00002710                  APP| RHO serve_index: /app/index.erb
-I 09/18/2013 16:30:44:106 00002710 RHO Rho::RhoController| inst_render_index
-I 09/18/2013 16:30:44:173 00002710                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/sample_js_app_beta59/app/index.erb
-I 09/18/2013 16:30:44:240 00002710 RHO Rho::RhoController| index layout
-I 09/18/2013 16:30:44:307 00002710                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/sample_js_app_beta59/app/layout.erb
-I 09/18/2013 16:30:44:375 00002710           HttpServer| GC Start.
-I 09/18/2013 16:30:44:378 00002024         QtMainWindow| WebView: URL changed to http://127.0.0.1:64101/app/index.erb
-I 09/18/2013 16:30:44:442 00002710           HttpServer| GC End.
-I 09/18/2013 16:30:44:593 00002710           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
-I 09/18/2013 16:30:44:665 00002710           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
-I 09/18/2013 16:30:44:729 00002710           HttpServer| Process URI: '/public/js/application.js'
-I 09/18/2013 16:30:44:796 00002710           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
-I 09/18/2013 16:30:44:864 00002710           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
-I 09/18/2013 16:30:44:929 00002710           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
-I 09/18/2013 16:30:44:998 00002710           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
-I 09/18/2013 16:30:45:063 00002710           HttpServer| Process URI: '/public/css/android.css'
-I 09/18/2013 16:30:45:447 00002710           HttpServer| Process URI: '/favicon.ico'
-E 09/18/2013 16:30:45:518 00002710           HttpServer| The file /favicon.ico was not found
-I 09/18/2013 16:30:45:584 00002024         QtMainWindow| Page load complete.
-I 09/18/2013 16:31:15:647 00002024           JavaScript| Console message at http://127.0.0.1:64101/public/js/application.js:54
-I 09/18/2013 16:31:15:719 00002024           JavaScript| -------------------------
-I 09/18/2013 16:31:15:788 00002024           JavaScript| Console message at http://127.0.0.1:64101/public/js/application.js:55
-I 09/18/2013 16:31:15:853 00002024           JavaScript| <tr><td> Name : test </td></tr><br/><tr><td> Brand : test</td></tr><br/><tr> <td>Price : test<br/><hr></td></tr>
-I 09/18/2013 16:31:15:921 00002024           JavaScript| Console message at http://127.0.0.1:64101/public/js/application.js:56
-I 09/18/2013 16:31:15:986 00002024           JavaScript| ------------------------
-I 09/18/2013 16:31:19:166 00002024           JavaScript| Console message at http://127.0.0.1:64101/public/js/application.js:64
-I 09/18/2013 16:31:19:231 00002024           JavaScript| 148316137765001.1
-I 09/18/2013 16:31:19:334 00002024           JavaScript| Console message at http://127.0.0.1:64101/public/js/application.js:68
-I 09/18/2013 16:31:19:409 00002024           JavaScript| ------------------
-I 09/18/2013 16:31:19:477 00002024           JavaScript| Console message at http://127.0.0.1:64101/public/js/application.js:69
-I 09/18/2013 16:31:19:542 00002024           JavaScript| 
-I 09/18/2013 16:31:19:637 00002024           JavaScript| Console message at http://127.0.0.1:64101/public/js/application.js:70
-I 09/18/2013 16:31:19:709 00002024           JavaScript| TypeError: Result of expression 'product.destroy' [undefined] is not a function.
-I 09/18/2013 16:31:35:973 00002024            RhodesApp| callAppActiveCallback
-I 09/18/2013 16:31:36:044 00002024         AppCallbacks| addCommand: APP-DEACTIVATED
-I 09/18/2013 16:31:36:111 00002024                  Net| Method: GET;Url: http://127.0.0.1:64101/system/deactivateapp
-I 09/18/2013 16:31:36:111 00002eb8         AppCallbacks| process command: APP-DEACTIVATED
-I 09/18/2013 16:31:36:179 00002710           HttpServer| Process URI: '/system/deactivateapp'
-I 09/18/2013 16:31:36:245 00002eb8         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:31:36:311 00002710                  APP| AppEvent Deactivated
-I 09/18/2013 16:31:36:585 00002024                  Net| Method: GET;Url: http://127.0.0.1:64101/system/uidestroyed
-I 09/18/2013 16:31:36:655 00002710           HttpServer| Process URI: '/system/uidestroyed'
-I 09/18/2013 16:31:36:722 00002710                  APP| AppEvent UIDestroyed
-I 09/18/2013 16:31:36:788 00002eb8         AppCallbacks| Thread shutdown
-I 09/18/2013 16:31:36:894 00002024           HttpServer| Stopping server...
-I 09/18/2013 16:31:36:988 00002710            RhodesApp| RhodesApp thread shutdown
-I 09/18/2013 16:31:37:055 00002710          GeoLocation| Destroying singleton instance.
-I 09/18/2013 16:31:37:121 00002710                 Sync| Stopping Sync thread
-I 09/18/2013 16:31:37:189 00000150                 Sync| Thread shutdown
-I 09/18/2013 16:31:37:192 00002710            RhoThread| Terminate thread. ID: 10000; Result: 258
-I 09/18/2013 16:31:40:044 00000a7c            RhodesApp| New start params: -approot='D:/Projects/rhomobile_projects/sample_js_app_beta59' -rhodespath='D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0'
-I 09/18/2013 16:31:40:133 00000a7c      Rhodes.cpp: 493| Rhodes started
-I 09/18/2013 16:31:40:201 00000da4         AppCallbacks| Starting main routine...
-I 09/18/2013 16:31:40:202 00000a7c            RhodesApp| Trying to get free listening port.
-I 09/18/2013 16:31:40:266 00000da4         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:31:40:334 00000a7c            RhodesApp| Trying to bind of 0 port...
-I 09/18/2013 16:31:40:467 00000a7c            RhodesApp| Got port to bind on: 64156
-I 09/18/2013 16:31:40:533 00000a7c            RhodesApp| Free listening port: 64156
-I 09/18/2013 16:31:40:652 00000a7c            RhodesApp| callAppActiveCallback
-I 09/18/2013 16:31:40:722 00000a7c         AppCallbacks| addCommand: APP-ACTIVATED
-I 09/18/2013 16:31:40:789 00000da4         AppCallbacks| Received command APP-ACTIVATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
-I 09/18/2013 16:31:40:793 00000a7c         AppCallbacks| addCommand: UI-CREATED
-I 09/18/2013 16:31:40:877 00000da4         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:31:40:967 0000345c            RhodesApp| Starting RhodesApp main routine...
-I 09/18/2013 16:31:41:055 00000da4         AppCallbacks| Received command UI-CREATED which is greater than expected (LOCAL-SERVER-STARTED) - postpone it
-I 09/18/2013 16:31:41:126 0000345c              RhoRuby| Init_RhoBlobs: D:/Projects/rhomobile_projects/sample_js_app_beta59/rhosimulator/db/db-files
-I 09/18/2013 16:31:41:188 00000da4         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
-I 09/18/2013 16:31:41:257 0000345c              RhoRuby| require_compiled: RhoSystemApi
-I 09/18/2013 16:31:41:391 0000345c              RhoRuby| require_compiled: RhoApplicationApi
-I 09/18/2013 16:31:41:515 0000345c              RhoRuby| require_compiled: RhoNetworkApi
-I 09/18/2013 16:31:41:581 0000345c              RhoRuby| require_compiled: RhoDatabaseApi
-I 09/18/2013 16:31:41:652 0000345c              RhoRuby| require_compiled: RhoLogApi
-I 09/18/2013 16:31:41:725 0000345c              RhoRuby| require_compiled: RhoWebViewApi
-I 09/18/2013 16:31:41:791 0000345c              RhoRuby| require_compiled: RhoNativeToolbarApi
-I 09/18/2013 16:31:41:858 0000345c              RhoRuby| require_compiled: RhoNativeTabbarApi
-I 09/18/2013 16:31:41:924 0000345c              RhoRuby| require_compiled: RhoNotificationApi
-I 09/18/2013 16:31:42:003 0000345c              RhoRuby| require_compiled: RhoNativeMenubarApi
-I 09/18/2013 16:31:42:236 0000345c              RhoRuby| require_compiled: RhoConnectClient
-I 09/18/2013 16:31:42:303 0000345c RhoconnectClientManager| setRhoconnectClientImpl ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-I 09/18/2013 16:31:42:368 0000345c              RhoRuby| require_compiled: digest
-I 09/18/2013 16:31:42:436 0000345c              RhoRuby| require_compiled: digest.so
-I 09/18/2013 16:31:42:511 0000345c              RhoRuby| require_compiled: rhoframework
-I 09/18/2013 16:31:42:582 0000345c              RhoRuby| require_compiled: rational
-I 09/18/2013 16:31:42:656 0000345c              RhoRuby| require_compiled: rhom/rhom_object
-I 09/18/2013 16:31:42:759 0000345c              RhoRuby| require_compiled: json
-I 09/18/2013 16:31:42:824 0000345c              RhoRuby| require_compiled: json/common
-I 09/18/2013 16:31:42:898 0000345c              RhoRuby| require_compiled: json/version
-I 09/18/2013 16:31:42:979 0000345c              RhoRuby| require_compiled: json/pure
-I 09/18/2013 16:31:43:046 0000345c              RhoRuby| require_compiled: json/pure/generator
-I 09/18/2013 16:31:43:117 0000345c              RhoRuby| require_compiled: rhom/rhom_object_factory
-I 09/18/2013 16:31:43:244 0000345c              RhoRuby| require_compiled: rhom/rhom
-I 09/18/2013 16:31:43:375 0000345c              RhoRuby| require_compiled: rhom/rhom_model
-I 09/18/2013 16:31:43:447 0000345c              RhoRuby| require_compiled: rhom
-I 09/18/2013 16:31:43:512 0000345c              RhoRuby| require_compiled: rho/rhoapplication
-I 09/18/2013 16:31:43:582 0000345c              RhoRuby| require_compiled: rholang/localization_simplified
-I 09/18/2013 16:31:43:659 0000345c              RhoRuby| require_compiled: rho/rhomsg
-I 09/18/2013 16:31:43:723 0000345c              RhoRuby| require_compiled: rho/rhotabbar
-I 09/18/2013 16:31:43:791 0000345c              RhoRuby| require_compiled: rho/rhotoolbar
-I 09/18/2013 16:31:43:867 0000345c                  APP| Current locale: ; Country code: 
-I 09/18/2013 16:31:43:934 0000345c                  APP| Locilized file: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/lang_
-I 09/18/2013 16:31:44:000 0000345c              RhoRuby| require_compiled: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/lang_en
-I 09/18/2013 16:31:44:069 0000345c                  APP| Locilized file: D:/Projects/rhomobile_projects/sample_js_app_beta59/app/lang/lang_
-I 09/18/2013 16:31:44:156 0000345c                  APP| Locilized file: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/rhoerror_
-I 09/18/2013 16:31:44:223 0000345c              RhoRuby| require_compiled: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/rhoerror_en
-I 09/18/2013 16:31:44:390 0000345c                  APP| Locilized file: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/rhomsg_
-I 09/18/2013 16:31:44:457 0000345c              RhoRuby| require_compiled: D:/MotorolaRhoMobileSuite4.0.0.beta.15/ruby/lib/ruby/gems/1.9.1/gems/rhodes-4.0.0/lib/framework/rholang/rhomsg_en
-I 09/18/2013 16:31:44:523 0000345c              RhoRuby| require_compiled: indifferent_access
-I 09/18/2013 16:31:44:614 0000345c              RhoRuby| require_compiled: rho/rhosupport
-I 09/18/2013 16:31:44:681 0000345c              RhoRuby| require_compiled: rho/rhocontroller
-I 09/18/2013 16:31:44:751 0000345c              RhoRuby| require_compiled: rho/render
-I 09/18/2013 16:31:44:829 0000345c              RhoRuby| require_compiled: rho/rho
-I 09/18/2013 16:31:44:971 0000345c              RhoRuby| require_compiled: rho/rhoerror
-I 09/18/2013 16:31:45:101 0000345c              RhoRuby| require_compiled: rhom/rhom_source
-I 09/18/2013 16:31:45:259 0000345c              RhoRuby| require_compiled: rhodes
-I 09/18/2013 16:31:45:400 0000345c                  APP| Looking for RhoConnectClient
-I 09/18/2013 16:31:45:478 0000345c                  APP| RhoConnectClient found. do nothing
-E 09/18/2013 16:31:45:602 0000345c              RhoRuby| require_compiled: error: can not find rhodes_translator
-I 09/18/2013 16:31:45:668 0000345c              RhoRuby| require_compiled: rho/rhoviewhelpers
-I 09/18/2013 16:31:45:738 0000345c              RhoRuby| require_compiled: rho
-I 09/18/2013 16:31:45:857 0000345c              RhoRuby| require_compiled: debugger
-I 09/18/2013 16:31:46:028 0000345c              RhoRuby| require_compiled: uri
-I 09/18/2013 16:31:46:214 0000345c              RhoRuby| require_compiled: uri/common
-I 09/18/2013 16:31:46:416 0000345c              RhoRuby| require_compiled: uri/generic
-ID":"__rhoID#1","jsonrpc":"2.0","id":11}
+I 09/20/2013 15:06:25:899 00002eec         QtMainWindow| WebView: loading...
+I 09/20/2013 15:06:25:975 00002edc           HttpServer| Process URI: '/app/index.erb'
+I 09/20/2013 15:06:26:044 00002edc                  APP| RHO serve_index: /app/index.erb
+I 09/20/2013 15:06:26:109 00002edc RHO Rho::RhoController| inst_render_index
+I 09/20/2013 15:06:26:176 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/index.erb
+I 09/20/2013 15:06:26:242 00002edc RHO Rho::RhoController| index layout
+I 09/20/2013 15:06:26:310 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/layout.erb
+I 09/20/2013 15:06:26:389 00002edc           HttpServer| GC Start.
+I 09/20/2013 15:06:26:391 00002eec         QtMainWindow| WebView: URL changed to http://127.0.0.1:61585/app/index.erb
+I 09/20/2013 15:06:26:456 00002edc           HttpServer| GC End.
+I 09/20/2013 15:06:26:605 00002edc           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 09/20/2013 15:06:26:679 00002edc           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+I 09/20/2013 15:06:26:743 00002edc           HttpServer| Process URI: '/public/js/application.js'
+I 09/20/2013 15:06:26:820 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+I 09/20/2013 15:06:26:899 00002edc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/20/2013 15:06:26:964 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+I 09/20/2013 15:06:27:032 00002edc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/20/2013 15:06:27:097 00002edc           HttpServer| Process URI: '/public/css/android.css'
+I 09/20/2013 15:06:27:452 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:06:27:599 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:06:27:668 00002eec         QtMainWindow| Page load complete.
+I 09/20/2013 15:06:58:823 00002eec           MainWindow| refresh
+I 09/20/2013 15:06:58:901 00002eec         QtMainWindow| WebView: loading...
+I 09/20/2013 15:06:58:978 00002edc           HttpServer| Process URI: '/app/index.erb'
+I 09/20/2013 15:06:59:047 00002edc                  APP| RHO serve_index: /app/index.erb
+I 09/20/2013 15:06:59:167 00002edc RHO Rho::RhoController| inst_render_index
+I 09/20/2013 15:06:59:235 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/index.erb
+I 09/20/2013 15:06:59:301 00002edc RHO Rho::RhoController| index layout
+I 09/20/2013 15:06:59:368 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/layout.erb
+I 09/20/2013 15:06:59:437 00002edc           HttpServer| GC Start.
+I 09/20/2013 15:06:59:439 00002eec         QtMainWindow| WebView: URL changed to http://127.0.0.1:61585/app/index.erb
+I 09/20/2013 15:06:59:504 00002edc           HttpServer| GC End.
+I 09/20/2013 15:06:59:652 00002edc           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 09/20/2013 15:06:59:727 00002edc           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+I 09/20/2013 15:06:59:791 00002edc           HttpServer| Process URI: '/public/js/application.js'
+I 09/20/2013 15:06:59:856 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+I 09/20/2013 15:06:59:924 00002edc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/20/2013 15:06:59:990 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+I 09/20/2013 15:07:00:057 00002edc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/20/2013 15:07:00:123 00002edc           HttpServer| Process URI: '/public/css/android.css'
+I 09/20/2013 15:07:00:417 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:07:00:480 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:07:00:552 00002eec         QtMainWindow| Page load complete.
+I 09/20/2013 15:07:05:774 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:107
+I 09/20/2013 15:07:05:835 00002eec           JavaScript| 148240498086000.97
+I 09/20/2013 15:13:05:567 00002eec           MainWindow| refresh
+I 09/20/2013 15:13:05:633 00002eec         QtMainWindow| WebView: loading...
+I 09/20/2013 15:13:05:722 00002edc           HttpServer| Process URI: '/app/index.erb'
+I 09/20/2013 15:13:05:790 00002edc                  APP| RHO serve_index: /app/index.erb
+I 09/20/2013 15:13:05:854 00002edc RHO Rho::RhoController| inst_render_index
+I 09/20/2013 15:13:05:922 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/index.erb
+I 09/20/2013 15:13:05:988 00002edc RHO Rho::RhoController| index layout
+I 09/20/2013 15:13:06:056 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/layout.erb
+I 09/20/2013 15:13:06:157 00002edc           HttpServer| GC Start.
+I 09/20/2013 15:13:06:160 00002eec         QtMainWindow| WebView: URL changed to http://127.0.0.1:61585/app/index.erb
+I 09/20/2013 15:13:06:225 00002edc           HttpServer| GC End.
+I 09/20/2013 15:13:06:374 00002edc           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 09/20/2013 15:13:06:447 00002edc           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+I 09/20/2013 15:13:06:512 00002edc           HttpServer| Process URI: '/public/js/application.js'
+I 09/20/2013 15:13:06:577 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+I 09/20/2013 15:13:06:645 00002edc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/20/2013 15:13:06:733 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+I 09/20/2013 15:13:06:801 00002edc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/20/2013 15:13:06:868 00002edc           HttpServer| Process URI: '/public/css/android.css'
+I 09/20/2013 15:13:07:177 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:13:07:244 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:13:07:311 00002eec         QtMainWindow| Page load complete.
+I 09/20/2013 15:13:08:198 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:08:265 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:08:356 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:08:420 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:09:844 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:09:909 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:09:981 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:10:043 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:11:109 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:11:177 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:11:247 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:11:310 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:12:084 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:12:155 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:12:226 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:12:288 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:13:333 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:13:399 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:13:482 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:13:544 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:14:285 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:14:359 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:14:425 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:14:489 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:15:268 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:15:332 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:15:403 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:15:465 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:16:189 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:16:255 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:16:325 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:16:389 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:17:756 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:17:822 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:17:893 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:17:955 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:19:109 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:19:222 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:19:292 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:19:356 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:20:348 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:20:411 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:20:482 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:20:544 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:24:588 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:24:722 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:24:793 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:24:855 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:25:901 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:26:065 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:26:148 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:26:212 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:26:709 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:26:778 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:26:850 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:26:912 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:27:900 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:27:967 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:28:038 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:28:101 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:28:884 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:28:956 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:29:027 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:29:089 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:29:884 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:29:979 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:30:049 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:30:112 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:30:764 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:30:835 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:30:906 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:30:968 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:31:668 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:31:734 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:31:805 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:31:867 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:32:596 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:32:668 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:32:738 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:32:801 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:34:476 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:34:545 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:34:617 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:34:679 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:35:493 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:35:557 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:35:628 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:35:691 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:36:413 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:36:480 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:36:551 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:36:624 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:37:388 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:37:457 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:37:527 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:37:590 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:38:253 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:38:323 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:38:395 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:38:457 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:39:036 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:39:103 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:39:173 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:39:236 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:39:908 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:39:979 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:40:051 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:40:113 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:40:813 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:40:892 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:40:960 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:41:023 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:41:668 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:41:735 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:41:806 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:41:869 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:42:572 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:42:635 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:42:705 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:42:769 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:43:940 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:13:44:001 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:13:44:073 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:13:44:135 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:14:14:067 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:54
+I 09/20/2013 15:14:14:127 00002eec           JavaScript| -------------------------
+I 09/20/2013 15:14:14:193 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:55
+I 09/20/2013 15:14:14:260 00002eec           JavaScript| <tr><td> Name : test</td></tr><br/><tr><td> Brand : test</td></tr><br/><tr> <td>Price : test<br/><hr></td></tr>
+I 09/20/2013 15:14:14:326 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:56
+I 09/20/2013 15:14:14:394 00002eec           JavaScript| ------------------------
+I 09/20/2013 15:14:24:009 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:54
+I 09/20/2013 15:14:24:071 00002eec           JavaScript| -------------------------
+I 09/20/2013 15:14:24:139 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:55
+I 09/20/2013 15:14:24:205 00002eec           JavaScript| <tr><td> Name : wewe</td></tr><br/><tr><td> Brand : ewe</td></tr><br/><tr> <td>Price : wewe<br/><hr></td></tr>
+I 09/20/2013 15:14:24:272 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:56
+I 09/20/2013 15:14:24:338 00002eec           JavaScript| ------------------------
+I 09/20/2013 15:14:26:231 00002eec           MainWindow| refresh
+I 09/20/2013 15:14:26:295 00002eec         QtMainWindow| WebView: loading...
+I 09/20/2013 15:14:26:372 00002edc           HttpServer| Process URI: '/app/index.erb'
+I 09/20/2013 15:14:26:441 00002edc                  APP| RHO serve_index: /app/index.erb
+I 09/20/2013 15:14:26:506 00002edc RHO Rho::RhoController| inst_render_index
+I 09/20/2013 15:14:26:572 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/index.erb
+I 09/20/2013 15:14:26:640 00002edc RHO Rho::RhoController| index layout
+I 09/20/2013 15:14:26:706 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/layout.erb
+I 09/20/2013 15:14:26:775 00002edc           HttpServer| GC Start.
+I 09/20/2013 15:14:26:777 00002eec         QtMainWindow| WebView: URL changed to http://127.0.0.1:61585/app/index.erb
+I 09/20/2013 15:14:26:841 00002edc           HttpServer| GC End.
+I 09/20/2013 15:14:26:995 00002edc           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 09/20/2013 15:14:27:087 00002edc           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+I 09/20/2013 15:14:27:150 00002edc           HttpServer| Process URI: '/public/js/application.js'
+I 09/20/2013 15:14:27:217 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+I 09/20/2013 15:14:27:284 00002edc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/20/2013 15:14:27:351 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+I 09/20/2013 15:14:27:419 00002edc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/20/2013 15:14:27:485 00002edc           HttpServer| Process URI: '/public/css/android.css'
+I 09/20/2013 15:14:27:761 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:14:27:829 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:14:27:897 00002eec         QtMainWindow| Page load complete.
+I 09/20/2013 15:15:22:295 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:54
+I 09/20/2013 15:15:22:365 00002eec           JavaScript| -------------------------
+I 09/20/2013 15:15:22:434 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:55
+I 09/20/2013 15:15:22:498 00002eec           JavaScript| <tr><td> Name : name</td></tr><br/><tr><td> Brand : brand</td></tr><br/><tr> <td>Price : price<br/><hr></td></tr>
+I 09/20/2013 15:15:22:566 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:56
+I 09/20/2013 15:15:22:633 00002eec           JavaScript| ------------------------
+I 09/20/2013 15:16:29:210 00002eec            RhodesApp| callAppActiveCallback
+I 09/20/2013 15:16:29:272 00002eec         AppCallbacks| addCommand: APP-DEACTIVATED
+I 09/20/2013 15:16:29:338 00002eec                  Net| Method: GET;Url: http://127.0.0.1:61585/system/deactivateapp
+I 09/20/2013 15:16:29:354 00002218         AppCallbacks| process command: APP-DEACTIVATED
+I 09/20/2013 15:16:29:493 00002218         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/20/2013 15:16:29:431 00002edc           HttpServer| Process URI: '/system/deactivateapp'
+I 09/20/2013 15:16:29:627 00002edc                  APP| AppEvent Deactivated
+I 09/20/2013 15:17:08:684 00002eec            RhodesApp| callAppActiveCallback
+I 09/20/2013 15:17:08:752 00002eec         AppCallbacks| addCommand: APP-ACTIVATED
+I 09/20/2013 15:17:08:819 00002218         AppCallbacks| process command: APP-ACTIVATED
+I 09/20/2013 15:17:08:886 00002218                  Net| Method: GET;Url: http://127.0.0.1:61585/system/activateapp
+I 09/20/2013 15:17:08:955 00002edc           HttpServer| Process URI: '/system/activateapp'
+I 09/20/2013 15:17:09:019 00002edc                  APP| AppEvent Activated
+I 09/20/2013 15:17:09:087 00002218         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/20/2013 15:18:02:445 00002eec           MainWindow| refresh
+I 09/20/2013 15:18:02:625 00002eec         QtMainWindow| WebView: loading...
+I 09/20/2013 15:18:02:746 00002edc           HttpServer| Process URI: '/app/index.erb'
+I 09/20/2013 15:18:02:915 00002edc                  APP| RHO serve_index: /app/index.erb
+I 09/20/2013 15:18:03:024 00002edc RHO Rho::RhoController| inst_render_index
+I 09/20/2013 15:18:03:103 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/index.erb
+I 09/20/2013 15:18:03:169 00002edc RHO Rho::RhoController| index layout
+I 09/20/2013 15:18:03:291 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/layout.erb
+I 09/20/2013 15:18:03:438 00002edc           HttpServer| GC Start.
+I 09/20/2013 15:18:03:439 00002eec         QtMainWindow| WebView: URL changed to http://127.0.0.1:61585/app/index.erb
+I 09/20/2013 15:18:03:582 00002edc           HttpServer| GC End.
+I 09/20/2013 15:18:03:826 00002edc           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 09/20/2013 15:18:03:921 00002edc           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+I 09/20/2013 15:18:03:991 00002edc           HttpServer| Process URI: '/public/js/application.js'
+I 09/20/2013 15:18:04:091 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+I 09/20/2013 15:18:04:203 00002edc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/20/2013 15:18:04:347 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+I 09/20/2013 15:18:04:515 00002edc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/20/2013 15:18:04:658 00002edc           HttpServer| Process URI: '/public/css/android.css'
+I 09/20/2013 15:18:05:002 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:18:05:081 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:18:05:149 00002eec         QtMainWindow| Page load complete.
+I 09/20/2013 15:18:07:869 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:72
+I 09/20/2013 15:18:07:935 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:18:08:025 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:76
+I 09/20/2013 15:18:08:091 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:18:09:108 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:72
+I 09/20/2013 15:18:09:202 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:18:09:273 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:76
+I 09/20/2013 15:18:09:335 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:18:10:404 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:72
+I 09/20/2013 15:18:10:524 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:18:10:596 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:76
+I 09/20/2013 15:18:10:658 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:18:14:543 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:54
+I 09/20/2013 15:18:14:603 00002eec           JavaScript| -------------------------
+I 09/20/2013 15:18:14:669 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:55
+I 09/20/2013 15:18:14:736 00002eec           JavaScript| <tr><td> Name : sasa</td></tr><br/><tr><td> Brand : sas</td></tr><br/><tr> <td>Price : asasa<br/><hr></td></tr>
+I 09/20/2013 15:18:14:802 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:56
+I 09/20/2013 15:18:14:869 00002eec           JavaScript| ------------------------
+I 09/20/2013 15:18:52:069 00002eec           MainWindow| refresh
+I 09/20/2013 15:18:52:139 00002eec         QtMainWindow| WebView: loading...
+I 09/20/2013 15:18:52:217 00002edc           HttpServer| Process URI: '/app/index.erb'
+I 09/20/2013 15:18:52:285 00002edc                  APP| RHO serve_index: /app/index.erb
+I 09/20/2013 15:18:52:352 00002edc RHO Rho::RhoController| inst_render_index
+I 09/20/2013 15:18:52:418 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/index.erb
+I 09/20/2013 15:18:52:485 00002edc RHO Rho::RhoController| index layout
+I 09/20/2013 15:18:52:551 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/layout.erb
+I 09/20/2013 15:18:52:621 00002edc           HttpServer| GC Start.
+I 09/20/2013 15:18:52:622 00002eec         QtMainWindow| WebView: URL changed to http://127.0.0.1:61585/app/index.erb
+I 09/20/2013 15:18:52:687 00002edc           HttpServer| GC End.
+I 09/20/2013 15:18:52:860 00002edc           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 09/20/2013 15:18:52:933 00002edc           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+I 09/20/2013 15:18:52:996 00002edc           HttpServer| Process URI: '/public/js/application.js'
+I 09/20/2013 15:18:53:063 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+I 09/20/2013 15:18:53:129 00002edc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/20/2013 15:18:53:196 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+I 09/20/2013 15:18:53:263 00002edc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/20/2013 15:18:53:341 00002edc           HttpServer| Process URI: '/public/css/android.css'
+I 09/20/2013 15:18:53:694 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:18:53:763 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:18:53:830 00002eec         QtMainWindow| Page load complete.
+I 09/20/2013 15:18:54:780 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:74
+I 09/20/2013 15:18:54:850 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:18:54:942 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:18:55:005 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:18:59:179 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:54
+I 09/20/2013 15:18:59:241 00002eec           JavaScript| -------------------------
+I 09/20/2013 15:18:59:307 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:55
+I 09/20/2013 15:18:59:374 00002eec           JavaScript| <tr><td> Name : sasas</td></tr><br/><tr><td> Brand : asas</td></tr><br/><tr> <td>Price : asasas<br/><hr></td></tr>
+I 09/20/2013 15:18:59:440 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:56
+I 09/20/2013 15:18:59:507 00002eec           JavaScript| ------------------------
+I 09/20/2013 15:18:59:574 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:59
+I 09/20/2013 15:18:59:641 00002eec           JavaScript| if
+I 09/20/2013 15:19:09:326 00002eec           MainWindow| refresh
+I 09/20/2013 15:19:09:386 00002eec         QtMainWindow| WebView: loading...
+I 09/20/2013 15:19:09:463 00002edc           HttpServer| Process URI: '/app/index.erb'
+I 09/20/2013 15:19:09:532 00002edc                  APP| RHO serve_index: /app/index.erb
+I 09/20/2013 15:19:09:596 00002edc RHO Rho::RhoController| inst_render_index
+I 09/20/2013 15:19:09:663 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/index.erb
+I 09/20/2013 15:19:09:730 00002edc RHO Rho::RhoController| index layout
+I 09/20/2013 15:19:09:808 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/layout.erb
+I 09/20/2013 15:19:09:910 00002edc           HttpServer| GC Start.
+I 09/20/2013 15:19:09:911 00002eec         QtMainWindow| WebView: URL changed to http://127.0.0.1:61585/app/index.erb
+I 09/20/2013 15:19:09:977 00002edc           HttpServer| GC End.
+I 09/20/2013 15:19:10:125 00002edc           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 09/20/2013 15:19:10:189 00002edc           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+I 09/20/2013 15:19:10:253 00002edc           HttpServer| Process URI: '/public/js/application.js'
+I 09/20/2013 15:19:10:319 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+I 09/20/2013 15:19:10:387 00002edc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/20/2013 15:19:10:453 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+I 09/20/2013 15:19:10:521 00002edc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/20/2013 15:19:10:586 00002edc           HttpServer| Process URI: '/public/css/android.css'
+I 09/20/2013 15:19:10:845 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:19:10:976 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:19:11:042 00002eec         QtMainWindow| Page load complete.
+I 09/20/2013 15:19:12:061 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:74
+I 09/20/2013 15:19:12:130 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:19:12:222 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:19:12:286 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:20:12:387 00002eec           MainWindow| refresh
+I 09/20/2013 15:20:12:458 00002eec         QtMainWindow| WebView: loading...
+I 09/20/2013 15:20:12:536 00002edc           HttpServer| Process URI: '/app/index.erb'
+I 09/20/2013 15:20:12:605 00002edc                  APP| RHO serve_index: /app/index.erb
+I 09/20/2013 15:20:12:669 00002edc RHO Rho::RhoController| inst_render_index
+I 09/20/2013 15:20:12:736 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/index.erb
+I 09/20/2013 15:20:12:802 00002edc RHO Rho::RhoController| index layout
+I 09/20/2013 15:20:12:869 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/layout.erb
+I 09/20/2013 15:20:12:938 00002edc           HttpServer| GC Start.
+I 09/20/2013 15:20:12:952 00002eec         QtMainWindow| WebView: URL changed to http://127.0.0.1:61585/app/index.erb
+I 09/20/2013 15:20:13:005 00002edc           HttpServer| GC End.
+I 09/20/2013 15:20:13:156 00002edc           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 09/20/2013 15:20:13:228 00002edc           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+I 09/20/2013 15:20:13:292 00002edc           HttpServer| Process URI: '/public/js/application.js'
+I 09/20/2013 15:20:13:358 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+I 09/20/2013 15:20:13:425 00002edc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/20/2013 15:20:13:491 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+I 09/20/2013 15:20:13:560 00002edc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/20/2013 15:20:13:625 00002edc           HttpServer| Process URI: '/public/css/android.css'
+I 09/20/2013 15:20:13:917 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:20:13:981 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:20:14:053 00002eec         QtMainWindow| Page load complete.
+I 09/20/2013 15:20:19:069 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:54
+I 09/20/2013 15:20:19:135 00002eec           JavaScript| -------------------------
+I 09/20/2013 15:20:19:204 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:55
+I 09/20/2013 15:20:19:269 00002eec           JavaScript| <tr><td> Name : sas</td></tr><br/><tr><td> Brand : sa</td></tr><br/><tr> <td>Price : sasas<br/><hr></td></tr>
+I 09/20/2013 15:20:19:337 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:56
+I 09/20/2013 15:20:19:402 00002eec           JavaScript| ------------------------
+I 09/20/2013 15:20:19:471 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:59
+I 09/20/2013 15:20:19:536 00002eec           JavaScript| if
+I 09/20/2013 15:20:53:653 00002eec           MainWindow| refresh
+I 09/20/2013 15:20:53:717 00002eec         QtMainWindow| WebView: loading...
+I 09/20/2013 15:20:53:794 00002edc           HttpServer| Process URI: '/app/index.erb'
+I 09/20/2013 15:20:53:863 00002edc                  APP| RHO serve_index: /app/index.erb
+I 09/20/2013 15:20:53:928 00002edc RHO Rho::RhoController| inst_render_index
+I 09/20/2013 15:20:53:995 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/index.erb
+I 09/20/2013 15:20:54:061 00002edc RHO Rho::RhoController| index layout
+I 09/20/2013 15:20:54:128 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/layout.erb
+I 09/20/2013 15:20:54:230 00002edc           HttpServer| GC Start.
+I 09/20/2013 15:20:54:232 00002eec         QtMainWindow| WebView: URL changed to http://127.0.0.1:61585/app/index.erb
+I 09/20/2013 15:20:54:297 00002edc           HttpServer| GC End.
+I 09/20/2013 15:20:54:445 00002edc           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 09/20/2013 15:20:54:509 00002edc           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+I 09/20/2013 15:20:54:573 00002edc           HttpServer| Process URI: '/public/js/application.js'
+I 09/20/2013 15:20:54:639 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+I 09/20/2013 15:20:54:707 00002edc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/20/2013 15:20:54:783 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+I 09/20/2013 15:20:54:852 00002edc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/20/2013 15:20:54:917 00002edc           HttpServer| Process URI: '/public/css/android.css'
+I 09/20/2013 15:20:55:164 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:20:55:230 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:20:55:296 00002eec         QtMainWindow| Page load complete.
+I 09/20/2013 15:20:57:444 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:68
+I 09/20/2013 15:20:57:550 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:20:57:643 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:72
+I 09/20/2013 15:20:57:705 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:21:00:891 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:54
+I 09/20/2013 15:21:00:951 00002eec           JavaScript| -------------------------
+I 09/20/2013 15:21:01:051 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:55
+I 09/20/2013 15:21:01:118 00002eec           JavaScript| <tr><td> Name : sas</td></tr><br/><tr><td> Brand : asas</td></tr><br/><tr> <td>Price : asas<br/><hr></td></tr>
+I 09/20/2013 15:21:01:184 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:56
+I 09/20/2013 15:21:01:251 00002eec           JavaScript| ------------------------
+I 09/20/2013 15:21:05:146 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:54
+I 09/20/2013 15:21:05:207 00002eec           JavaScript| -------------------------
+I 09/20/2013 15:21:05:273 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:55
+I 09/20/2013 15:21:05:340 00002eec           JavaScript| <tr><td> Name : sasa</td></tr><br/><tr><td> Brand : sasa</td></tr><br/><tr> <td>Price : sasasasas<br/><hr></td></tr>
+I 09/20/2013 15:21:05:406 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:56
+I 09/20/2013 15:21:05:473 00002eec           JavaScript| ------------------------
+I 09/20/2013 15:21:10:503 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:54
+I 09/20/2013 15:21:10:562 00002eec           JavaScript| -------------------------
+I 09/20/2013 15:21:10:630 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:55
+I 09/20/2013 15:21:10:696 00002eec           JavaScript| <tr><td> Name : cccccc</td></tr><br/><tr><td> Brand : cccccccc</td></tr><br/><tr> <td>Price : ccccccccc<br/><hr></td></tr>
+I 09/20/2013 15:21:10:785 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:56
+I 09/20/2013 15:21:10:851 00002eec           JavaScript| ------------------------
+I 09/20/2013 15:38:35:281 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:54
+I 09/20/2013 15:38:35:341 00002eec           JavaScript| -------------------------
+I 09/20/2013 15:38:35:408 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:55
+I 09/20/2013 15:38:35:475 00002eec           JavaScript| <tr><td> Name : dsds</td></tr><br/><tr><td> Brand : dsds</td></tr><br/><tr> <td>Price : dsdsds<br/><hr></td></tr>
+I 09/20/2013 15:38:35:541 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:56
+I 09/20/2013 15:38:35:608 00002eec           JavaScript| ------------------------
+I 09/20/2013 15:38:52:416 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:68
+I 09/20/2013 15:38:52:486 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:38:52:558 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:72
+I 09/20/2013 15:38:52:619 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:38:53:592 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:68
+I 09/20/2013 15:38:53:654 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:38:53:737 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:72
+I 09/20/2013 15:38:53:798 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:38:54:713 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:68
+I 09/20/2013 15:38:54:776 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:38:54:925 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:72
+I 09/20/2013 15:38:55:009 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:38:56:097 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:68
+I 09/20/2013 15:38:56:165 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:38:56:236 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:72
+I 09/20/2013 15:38:56:298 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:39:08:136 00002eec            RhodesApp| callAppActiveCallback
+I 09/20/2013 15:39:08:199 00002eec         AppCallbacks| addCommand: APP-DEACTIVATED
+I 09/20/2013 15:39:08:267 00002eec                  Net| Method: GET;Url: http://127.0.0.1:61585/system/deactivateapp
+I 09/20/2013 15:39:08:267 00002218         AppCallbacks| process command: APP-DEACTIVATED
+I 09/20/2013 15:39:08:336 00002edc           HttpServer| Process URI: '/system/deactivateapp'
+I 09/20/2013 15:39:08:400 00002218         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+I 09/20/2013 15:39:08:466 00002edc                  APP| AppEvent Deactivated
+I 09/20/2013 15:39:09:881 00002eec            RhodesApp| callAppActiveCallback
+I 09/20/2013 15:39:09:944 00002eec         AppCallbacks| addCommand: APP-ACTIVATED
+I 09/20/2013 15:39:10:010 00002218         AppCallbacks| process command: APP-ACTIVATED
+I 09/20/2013 15:39:10:078 00002218                  Net| Method: GET;Url: http://127.0.0.1:61585/system/activateapp
+I 09/20/2013 15:39:10:144 00002edc           HttpServer| Process URI: '/system/activateapp'
+I 09/20/2013 15:39:10:211 00002edc                  APP| AppEvent Activated
+I 09/20/2013 15:39:10:277 00002218         AppCallbacks| ThreadQueue blocked for 4294967295 seconds...
+ http://127.0.0.1:61585/app/index.erb
+I 09/20/2013 15:04:48:026 00002edc           HttpServer| GC End.
+I 09/20/2013 15:04:48:171 00002edc           HttpServer| Process URI: '/public/api/rhoapi-modules.js'
+I 09/20/2013 15:04:48:260 00002edc           HttpServer| Process URI: '/public/jquery/jquery-1.9.1.min.js'
+I 09/20/2013 15:04:48:324 00002edc           HttpServer| Process URI: '/public/js/application.js'
+I 09/20/2013 15:04:48:389 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.css'
+I 09/20/2013 15:04:48:457 00002edc           HttpServer| Process URI: '/public/css/jqmobile-patch.css'
+I 09/20/2013 15:04:48:523 00002edc           HttpServer| Process URI: '/public/jqmobile/jquery.mobile-1.3.1.min.js'
+I 09/20/2013 15:04:48:591 00002edc           HttpServer| Process URI: '/public/js/jqmobile-patch.js'
+I 09/20/2013 15:04:48:656 00002edc           HttpServer| Process URI: '/public/css/android.css'
+I 09/20/2013 15:04:48:944 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:04:49:013 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:04:49:080 00002eec         QtMainWindow| Page load complete.
+I 09/20/2013 15:04:51:479 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:78
+I 09/20/2013 15:04:51:545 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:04:51:639 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/js/application.js:82
+I 09/20/2013 15:04:51:700 00002eec           JavaScript| [object Object]
+I 09/20/2013 15:04:51:974 00002eec           JavaScript| Console message at http://127.0.0.1:61585/public/jqmobile/jquery.mobile-1.3.1.min.js:2
+I 09/20/2013 15:04:52:034 00002eec           JavaScript| TypeError: Result of expression 't.replace' [undefined] is not a function.
+I 09/20/2013 15:06:04:029 00002edc           HttpServer| Process URI: '/favicon.ico'
+E 09/20/2013 15:06:04:086 00002edc           HttpServer| The file /favicon.ico was not found
+I 09/20/2013 15:06:14:374 00002edc           HttpServer| Process URI: '/app/index.erb'
+I 09/20/2013 15:06:14:553 00002edc                  APP| RHO serve_index: /app/index.erb
+I 09/20/2013 15:06:14:728 00002edc RHO Rho::RhoController| inst_render_index
+I 09/20/2013 15:06:14:842 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/index.erb
+I 09/20/2013 15:06:14:908 00002edc RHO Rho::RhoController| index layout
+I 09/20/2013 15:06:14:975 00002edc                  APP| eval_compiled_file : D:/Projects/rhomobile_projects/rhomobile-javascript-app/app/layout.erb
+I 09/20/2013 15:06:15:044 00002edc           HttpServer| GC Start.
+I 09/20/2013 15:06:15:144 00002edc           HttpServer| GC End.
+I 09/20/2013 15:06:22:025 00002edc           HttpServer| Process URI: '/public/api/jquery.min.map'
+E 09/20/2013 15:06:22:232 00002edc           HttpServer| The file /public/api/jquery.min.map was not found
+I 09/20/2013 15:06:22:398 00002edc           HttpServer| Process URI: '/public/jquery/jquery.min.map'
+E 09/20/2013 15:06:22:542 00002edc           HttpServer| The file /public/jquery/jquery.min.map was not found
+E 09/20/2013 15:06:24:304 00002edc           HttpServer| Connection gracefully closed before we receive any data
+E 09/20/2013 15:06:24:376 00002edc           HttpServer| Parsing error
+E 09/20/2013 15:06:24:531 00002edc           HttpServer| Connection gracefully closed before we receive any data
+E 09/20/2013 15:06:24:676 00002edc           HttpServer| Parsing error
+E 09/20/2013 15:06:24:809 00002edc           HttpServer| Connection gracefully closed before we receive any data
+E 09/20/2013 15:06:24:876 00002edc           HttpServer| Parsing error
+I 09/20/2013 15:06:25:805 00002eec           MainWindow| refresh
+sh
+onrpc":"2.0","id":11}
 
